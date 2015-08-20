@@ -1,0 +1,53 @@
+Reference Type:  Serial
+Record Number: 1068
+Author: Wang, D., Nie, F., Huang, H., Yan, J., Risacher, S. L., Saykin, A. J. and Shen, L.
+Year: 2013
+Title: Structural brain network constrained neuroimaging marker identification for predicting cognitive functions
+Place Published: Asilomar, CA
+Volume: 7917 LNCS
+Pages: 536-547
+Series Title: 23rd International Conference on Information Processing in Medical Imaging, IPMI 2013
+Short Title: Structural brain network constrained neuroimaging marker identification for predicting cognitive functions
+ISBN: 03029743 (ISSN); 9783642388675 (ISBN)
+DOI: 10.1007/978-3-642-38868-2_45
+Keywords: Brain Network Based Feature Selection
+Correlated Marker Selection
+Imaging Genetics
+Neuroimaging Marker Identification
+Alzheimer's disease
+Brain networks
+Cognitive functions
+Marker identifications
+Sparse representation
+Structural correlation
+Brain
+Data processing
+Neurodegenerative diseases
+Neuroimaging
+Abstract: Neuroimaging markers have been widely used to predict the cognitive functions relevant to the progression of Alzheimer's disease (AD). Most previous studies identify the imaging markers without considering the brain structural correlations between neuroimaging measures. However, many neuroimaging markers interrelate and work together to reveal the cognitive functions, such that these relevant markers should be selected together as the phenotypic markers. To solve this problem, in this paper, we propose a novel network constrained feature selection (NCFS) model to identify the neuroimaging markers guided by the structural brain network, which is constructed by the sparse representation method such that the interrelations between neuroimaging features are encoded into probabilities. Our new methods are evaluated by the MRI and AV45-PET data from ADNI-GO and ADNI-2 (Alzheimer's Disease Neuroimaging Initiative). In all cognitive function prediction tasks, our new NCFS method outperforms other state-of-the-art regression approaches. Meanwhile, we show that the new method can select the correlated imaging markers, which are ignored by the competing approaches. © 2013 Springer-Verlag.
+Notes: Conference code: 97746
+Export Date: 28 May 2014
+Source: Scopus
+Language of Original Document: English
+Correspondence Address: Huang, H.; Computer Science and Engineering, University of Texas at Arlington, Arlington, TX, United States; email: heng@uta.edu
+Funding Details: CCF-, NSF, National Science Foundation
+Funding Details: 0830780, NSF, National Science Foundation
+Funding Details: 0917274, NSF, National Science Foundation
+Funding Details: DMS-0915228, NSF, National Science Foundation
+Funding Details: IIS-1117965, NSF, National Science Foundation
+Funding Details: IIS-1117335, NSF, National Science Foundation
+Funding Details: R01 LM011360, NIH, National Institutes of Health
+Funding Details: UL1 RR025761, NIH, National Institutes of Health
+Funding Details: U01 AG024904, NIH, National Institutes of Health
+Funding Details: RC2 AG036535, NIH, National Institutes of Health
+Funding Details: R01 AG19771, NIH, National Institutes of Health
+Funding Details: P30 AG10133-18S1, NIH, National Institutes of Health
+Funding Details: NIA, National Institute on Aging
+Funding Details: NIBIB, National Institute of Biomedical Imaging and Bioengineering
+References: Ashburner, J., Friston, K., Voxel-based morphometry-the methods (2000) Neuroimage, 11 (6), pp. 805-821; Chen, Z.J., He, Y., Rosa-Neto, P., Germann, J., Evans, A.C., Revealing modular architecture of human brain structural networks by using cortical thickness from mri (2008) Cerebral Cortex, 18, pp. 2374-2381; Hinrichs, C., Singh, V., Spatially augmented LPboosting for AD classification with evaluations on the ADNI dataset (2009) Neuroimage, 48 (1), pp. 138-149; Jack Jr., C.R., Bernstein, M.A., Borowski, B.J., Gunter, J.L., Fox, N.C., Thompson, P.M., Schuff, N., Weiner, M.W., Update on the magnetic resonance imaging core of the alzheimer's disease neuroimaging initiative (2010) Alzheimers Dement, 6 (3), pp. 212-220; Jagust, W.J., Bandy, D., Chen, K., Foster, N.L., Landau, S.M., Mathis, C.A., Price, J.C., Koeppe, R.A., The alzheimer's disease neuroimaging initiative positron emission tomography core (2010) Alzheimers Dement, 6 (3), pp. 221-229; Khundrakpam, B.S., Reid, A., Brauer, J., Developmental changes in organization of structural brain networks (2012) Cerebral Cortex; Meinshausen, N., Bühlmann, P., High-dimensional graphs and variable selection with the Lasso (2006) The Annals of Statistics, 34 (3), pp. 1436-1462; Risacher, S.L., Saykin, A.J., West, J.D., Shen, L., Firpi, H.A., McDonald, B.C., Baseline mri predictors of conversion from mci to probable ad in the adni cohort (2009) Curr. Alzheimer Res., 6 (4), pp. 347-361; Shen, L., Qi, Y., Kim, S., Nho, K., Wan, J., Risacher, S.L., Saykin, A.J., ADNI: Sparse bayesian learning for identifying imaging biomarkers in AD prediction (2010) LNCS, 6363, pp. 611-618. , Jiang, T., Navab, N., Pluim, J.P.W., Viergever, M.A. (eds.) MICCAI 2010, Part III. Springer, Heidelberg; Stonnington, C.M., Chu, C., Predicting clinical scores from magnetic resonance scans in alzheimer's disease (2010) Neuroimage, 51 (4), pp. 1405-1413; Swaminathan, S., Shen, L., Risacher, S.L., Yoder, K.K., West, J.D., Kim, S., Nho, K., Saykin, A.J., Amyloid pathway-based candidate gene analysis of [(11)c]pib-pet in the Alzheimer's disease neuroimaging initiative (adni) cohort (2012) Brain Imaging Behav., 6 (1), pp. 1-15; Tibshirani, R., Regression shrinkage and selection via the LASSO (1996) J. Royal. Statist. Soc. B, 58, pp. 267-288; Walhovd, K., Fjell, A., Multi-modal imaging predicts memory performance in normal aging and cognitive decline (2010) Neurobiol. Aging, 31 (7), pp. 1107-1121; Wang, H., Nie, F., Huang, H., Risacher, S.L., Ding, C., Saykin, A.J., Shen, L., Sparse multi-task regression and feature selection to identify brain imaging predictors for memory performance (2011) IEEE Conference on Computer Vision, pp. 557-562; Wang, H., Nie, F., Huang, H., Risacher, S., Saykin, A.J., Shen, L., ADNI: Identifying AD-sensitive and cognition-relevant imaging biomarkers via joint classification and regression (2011) LNCS, 6893, pp. 115-123. , Fichtinger, G., Martel, A., Peters, T. (eds.) MICCAI 2011, Part III. Springer, Heidelberg; Wang, H., Nie, F., Huang, H., Risacher, S.L., Saykin, A.J., Shen, L., ADNI: Identifying disease sensitive and quantitative trait relevant biomarkers from multidimensional heterogeneous imaging genetics data via sparse multi-modal multitask learning (2012) 20th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB), 28, pp. i127-i136; Wang, H., Nie, F., Huang, H., Yan, J., Kim, S., Nho, K., Risacher, S.L., Shen, L., From Phenotype to Genotype: An Association Study of Candidate Phenotypic Markers to Alzheimer's Disease Relevant SNPs (2012) Bioinformatics, 28, pp. i619-i625; Wang, H., Nie, F., Huang, H., Yan, J., Kim, S., Risacher, S., Saykin, A., Shen, L., High-Order Multi-Task Feature Learning to Identify Longitudinal Phenotypic Markers for Alzheimer Disease Progression Prediction (2012) Advances in Neural Information Processing Systems, NIPS
+URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84879870123&partnerID=40&md5=3fc669495428eba134b20b0805a1f0dd
+Author Address: Computer Science and Engineering, University of Texas at Arlington, Arlington, TX, United States
+Department of Radiology and Imaging Sciences, Indiana University School of Medicine, Indianapolis, IN, United States
+Access Date: 28 June 2013 through 3 July 2013
+
+

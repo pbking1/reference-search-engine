@@ -1,0 +1,48 @@
+Reference Type:  Journal Article
+Record Number: 2306
+Author: Lebedev, A. V., Westman, E., Van Westen, G. J., Kramberger, M. G., Lundervold, A., Aarsland, D., Soininen, H., Kloszewska, I., Mecocci, P., Tsolaki, M., Vellas, B., Lovestone, S., Simmons, A., Alzheimer's Disease Neuroimaging, Initiative and the AddNeuroMed, consortium
+Year: 2014
+Title: Random Forest ensembles for detection and prediction of Alzheimer's disease with a good between-cohort robustness
+Journal: Neuroimage Clin
+Volume: 6
+Pages: 115-25
+Short Title: Random Forest ensembles for detection and prediction of Alzheimer's disease with a good between-cohort robustness
+Alternate Journal: NeuroImage. Clinical
+ISSN: 2213-1582 (Electronic)
+2213-1582 (Linking)
+DOI: 10.1016/j.nicl.2014.08.023
+PMCID: 4215532
+Accession Number: 25379423
+Abstract: Computer-aided diagnosis of Alzheimer's disease (AD) is a rapidly developing field of neuroimaging with strong potential to be used in practice. In this context, assessment of models' robustness to noise and imaging protocol differences together with post-processing and tuning strategies are key tasks to be addressed in order to move towards successful clinical applications. In this study, we investigated the efficacy of Random Forest classifiers trained using different structural MRI measures, with and without neuroanatomical constraints in the detection and prediction of AD in terms of accuracy and between-cohort robustness. From The ADNI database, 185 AD, and 225 healthy controls (HC) were randomly split into training and testing datasets. 165 subjects with mild cognitive impairment (MCI) were distributed according to the month of conversion to dementia (4-year follow-up). Structural 1.5-T MRI-scans were processed using Freesurfer segmentation and cortical reconstruction. Using the resulting output, AD/HC classifiers were trained. Training included model tuning and performance assessment using out-of-bag estimation. Subsequently the classifiers were validated on the AD/HC test set and for the ability to predict MCI-to-AD conversion. Models' between-cohort robustness was additionally assessed using the AddNeuroMed dataset acquired with harmonized clinical and imaging protocols. In the ADNI set, the best AD/HC sensitivity/specificity (88.6%/92.0% - test set) was achieved by combining cortical thickness and volumetric measures. The Random Forest model resulted in significantly higher accuracy compared to the reference classifier (linear Support Vector Machine). The models trained using parcelled and high-dimensional (HD) input demonstrated equivalent performance, but the former was more effective in terms of computation/memory and time costs. The sensitivity/specificity for detecting MCI-to-AD conversion (but not AD/HC classification performance) was further improved from 79.5%/75%-83.3%/81.3% by a combination of morphometric measurements with ApoE-genotype and demographics (age, sex, education). When applied to the independent AddNeuroMed cohort, the best ADNI models produced equivalent performance without substantial accuracy drop, suggesting good robustness sufficient for future clinical implementation.
+Notes: Lebedev, A V
+Westman, E
+Van Westen, G J P
+Kramberger, M G
+Lundervold, A
+Aarsland, D
+Soininen, H
+Kloszewska, I
+Mecocci, P
+Tsolaki, M
+Vellas, B
+Lovestone, S
+Simmons, A
+eng
+Netherlands
+2014/11/08 06:00
+Neuroimage Clin. 2014 Aug 28;6:115-25. doi: 10.1016/j.nicl.2014.08.023. eCollection 2014.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/25379423
+Author Address: Centre for Age-Related Medicine, Stavanger University Hospital, Stavanger, Norway.
+Department of Neurobiology, Care Sciences and Society, Division of Neurogeriatrics, Alzheimer's Disease Research Centre, Karolinska Institute, Stockholm, Sweden.
+European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, United Kingdom.
+Department of Neurology, University Medical Center Ljubljana, Slovenia.
+Neuroinformatics and Image Analysis Laboratory, Department of Biomedicine, University of Bergen, Bergen, Norway ; Department of Radiology, Haukeland University Hospital, Bergen, Norway.
+Centre for Age-Related Medicine, Stavanger University Hospital, Stavanger, Norway ; Department of Neurobiology, Care Sciences and Society, Division of Neurogeriatrics, Alzheimer's Disease Research Centre, Karolinska Institute, Stockholm, Sweden.
+Department of Neurology, University of Eastern Finland and Kuopio University Hospital, Kuopio, Finland.
+Department of Old Age Psychiatry and Psychotic Disorders, Medical University of Lodz, Lodz, Poland.
+Institute of Gerontology and Geriatrics, University of Perugia, Perugia, Italy.
+Aristotle University of Thessaloniki, Thessaloniki, Greece.
+GERONTOPOLE, UMR INSERM 1027, CHU, University of Toulouse, France.
+King's College London, Institute of Psychiatry, London, UK ; NIHR Biomedical Research Centre for Mental Health and Biomedical Research Unit for Dementia, London, UK.
+
+

@@ -1,0 +1,57 @@
+Reference Type:  Journal Article
+Record Number: 2133
+Author: Wu, X., Li, J., Ayutyanont, N., Protas, H., Jagust, W., Fleisher, A., Reiman, E., Yao, L., Chen, K. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2013
+Title: The receiver operational characteristic for binary classification with multiple indices and its application to the neuroimaging study of Alzheimer's disease
+Journal: IEEE/ACM Trans Comput Biol Bioinform
+Volume: 10
+Issue: 1
+Pages: 173-80
+Date: Jan-Feb
+Short Title: The receiver operational characteristic for binary classification with multiple indices and its application to the neuroimaging study of Alzheimer's disease
+Alternate Journal: IEEE/ACM transactions on computational biology and bioinformatics / IEEE, ACM
+ISSN: 1557-9964 (Electronic)
+1545-5963 (Linking)
+DOI: 10.1109/TCBB.2012.141
+PMCID: 4085147
+Accession Number: 23702553
+Keywords: Aged
+Aged, 80 and over
+Algorithms
+Alzheimer Disease/*diagnosis/pathology/physiopathology
+Case-Control Studies
+Databases, Factual
+Discriminant Analysis
+Humans
+Magnetic Resonance Imaging
+Middle Aged
+Neuroimaging/*methods
+Positron-Emission Tomography
+*ROC Curve
+Abstract: Given a single index, the receiver operational characteristic (ROC) curve analysis is routinely utilized for characterizing performances in distinguishing two conditions/groups in terms of sensitivity and specificity. Given the availability of multiple data sources (referred to as multi-indices), such as multimodal neuroimaging data sets, cognitive tests, and clinical ratings and genomic data in Alzheimer's disease (AD) studies, the single-index-based ROC underutilizes all available information. For a long time, a number of algorithmic/analytic approaches combining multiple indices have been widely used to simultaneously incorporate multiple sources. In this study, we propose an alternative for combining multiple indices using logical operations, such as "AND," "OR," and "at least n" (where n is an integer), to construct multivariate ROC (multiV-ROC) and characterize the sensitivity and specificity statistically associated with the use of multiple indices. With and without the "leave-one-out" cross-validation, we used two data sets from AD studies to showcase the potentially increased sensitivity/specificity of the multiV-ROC in comparison to the single-index ROC and linear discriminant analysis (an analytic way of combining multi-indices). We conclude that, for the data sets we investigated, the proposed multiV-ROC approach is capable of providing a natural and practical alternative with improved classification accuracy as compared to univariate ROC and linear discriminant analysis.
+Notes: Wu, Xia
+Li, Juan
+Ayutyanont, Napatkamon
+Protas, Hillary
+Jagust, William
+Fleisher, Adam
+Reiman, Eric
+Yao, Li
+Chen, Kewei
+eng
+P30 AG010129/AG/NIA NIH HHS/
+P30 AG019610/AG/NIA NIH HHS/
+P30AG19610/AG/NIA NIH HHS/
+P50 AG008702/AG/NIA NIH HHS/
+R01 AG031581/AG/NIA NIH HHS/
+R01 MH057899/MH/NIMH NIH HHS/
+R01AG031581-31/AG/NIA NIH HHS/
+R01MH057899/MH/NIMH NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+2013/05/25 06:00
+IEEE/ACM Trans Comput Biol Bioinform. 2013 Jan-Feb;10(1):173-80. doi: 10.1109/TCBB.2012.141.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/23702553
+Author Address: State Key Laboratory of Cognitive Neuroscience and Learning, College of Information Science and Technology, Beijing Normal University, Beijing, P.R. China. wuxia@bnu.edu.cn
+
+

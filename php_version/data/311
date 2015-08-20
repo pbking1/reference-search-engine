@@ -1,0 +1,50 @@
+Reference Type:  Journal Article
+Record Number: 2208
+Author: Bossa, M., Zacur, E., Olmos, S. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2011
+Title: Statistical analysis of relative pose information of subcortical nuclei: application on ADNI data
+Journal: Neuroimage
+Volume: 55
+Issue: 3
+Pages: 999-1008
+Date: Apr 1
+Short Title: Statistical analysis of relative pose information of subcortical nuclei: application on ADNI data
+Alternate Journal: NeuroImage
+ISSN: 1095-9572 (Electronic)
+1053-8119 (Linking)
+DOI: 10.1016/j.neuroimage.2010.12.078
+PMCID: 3554790
+Accession Number: 21216295
+Keywords: Aged
+Algorithms
+Alzheimer Disease/diagnosis/*pathology
+Analysis of Variance
+Apolipoproteins E/genetics
+Brain/*pathology
+Data Interpretation, Statistical
+Dementia/psychology
+Female
+Humans
+Image Processing, Computer-Assisted/*methods
+Magnetic Resonance Imaging
+Male
+Neuropsychological Tests
+Posture/*physiology
+Psychiatric Status Rating Scales
+Sex Characteristics
+Abstract: Many brain morphometry studies have been performed in order to characterize the brain atrophy pattern of Alzheimer's disease (AD). The earliest studies focused on the volume of particular brain structures, such as hippocampus and entorhinal cortex. Even though volumetry is a powerful, robust and intuitive technique that has yielded a wealth of findings, more complex shape descriptors have been used to perform statistical shape analysis of particular brain structures. However, in shape analysis studies of brain structures the information of the relative pose between neighbor structures is typically disregarded. This work presents a framework to analyse pose information including the following approaches: similarity transformations with either pseudo-Riemannian or left-invariant Riemannian metric, and centered transformations with a bi-invariant Riemannian metric. As an illustration, an analysis of covariance (ANCOVA) and a discrimination analysis were performed on Alzheimer's Disease Neuroimaging Initiative (ADNI) data.
+Notes: Bossa, Matias
+Zacur, Ernesto
+Olmos, Salvador
+eng
+U01 AG024904/AG/NIA NIH HHS/
+U01 AG024904-07/AG/NIA NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+2011/01/11 06:00
+Neuroimage. 2011 Apr 1;55(3):999-1008. doi: 10.1016/j.neuroimage.2010.12.078. Epub 2011 Jan 7.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/21216295
+Author Address: Aragon Institute of Engineering Research, Universidad de Zaragoza, Spain. bossa@unizar.es
+
+

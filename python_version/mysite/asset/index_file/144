@@ -1,0 +1,71 @@
+Reference Type:  Journal Article
+Record Number: 2242
+Author: Morra, J. H., Tu, Z., Apostolova, L. G., Green, A. E., Avedissian, C., Madsen, S. K., Parikshak, N., Hua, X., Toga, A. W., Jack, C. R., Jr., Schuff, N., Weiner, M. W., Thompson, P. M. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2009
+Title: Automated 3D mapping of hippocampal atrophy and its clinical correlates in 400 subjects with Alzheimer's disease, mild cognitive impairment, and elderly controls
+Journal: Hum Brain Mapp
+Volume: 30
+Issue: 9
+Pages: 2766-88
+Date: Sep
+Short Title: Automated 3D mapping of hippocampal atrophy and its clinical correlates in 400 subjects with Alzheimer's disease, mild cognitive impairment, and elderly controls
+Alternate Journal: Human brain mapping
+ISSN: 1097-0193 (Electronic)
+1065-9471 (Linking)
+DOI: 10.1002/hbm.20708
+PMCID: 2733926
+Accession Number: 19172649
+Keywords: Aged
+Aged, 80 and over
+Aging/*pathology
+Alzheimer Disease/*pathology/physiopathology
+Atrophy/pathology/physiopathology
+Brain Mapping/*methods
+Cognition Disorders/*pathology/physiopathology
+Depressive Disorder, Major/pathology/physiopathology
+Diagnosis, Differential
+Disease Progression
+Female
+Functional Laterality/physiology
+Hippocampus/*pathology/physiopathology
+Humans
+Imaging, Three-Dimensional/methods
+Magnetic Resonance Imaging/methods
+Male
+Memory Disorders/pathology/physiopathology
+Predictive Value of Tests
+Reference Values
+Sensitivity and Specificity
+Abstract: We used a new method we developed for automated hippocampal segmentation, called the auto context model, to analyze brain MRI scans of 400 subjects from the Alzheimer's disease neuroimaging initiative. After training the classifier on 21 hand-labeled expert segmentations, we created binary maps of the hippocampus for three age- and sex-matched groups: 100 subjects with Alzheimer's disease (AD), 200 with mild cognitive impairment (MCI) and 100 elderly controls (mean age: 75.84; SD: 6.64). Hippocampal traces were converted to parametric surface meshes and a radial atrophy mapping technique was used to compute average surface models and local statistics of atrophy. Surface-based statistical maps visualized links between regional atrophy and diagnosis (MCI versus controls: P = 0.008; MCI versus AD: P = 0.001), mini-mental state exam (MMSE) scores, and global and sum-of-boxes clinical dementia rating scores (CDR; all P < 0.0001, corrected). Right but not left hippocampal atrophy was associated with geriatric depression scores (P = 0.004, corrected); hippocampal atrophy was not associated with subsequent decline in MMSE and CDR scores, educational level, ApoE genotype, systolic or diastolic blood pressure measures, or homocysteine. We gradually reduced sample sizes and used false discovery rate curves to examine the method's power to detect associations with diagnosis and cognition in smaller samples. Forty subjects were sufficient to discriminate AD from normal and correlate atrophy with CDR scores; 104, 200, and 304 subjects, respectively, were required to correlate MMSE with atrophy, to distinguish MCI from normal, and MCI from AD.
+Notes: Morra, Jonathan H
+Tu, Zhuowen
+Apostolova, Liana G
+Green, Amity E
+Avedissian, Christina
+Madsen, Sarah K
+Parikshak, Neelroop
+Hua, Xue
+Toga, Arthur W
+Jack, Clifford R Jr
+Schuff, Norbert
+Weiner, Michael W
+Thompson, Paul M
+eng
+AG016570/AG/NIA NIH HHS/
+EB01651/EB/NIBIB NIH HHS/
+LM05639/LM/NLM NIH HHS/
+P50 AG016570-100004/AG/NIA NIH HHS/
+R01 LM005639-10/LM/NLM NIH HHS/
+R21 RR019771-02/RR/NCRR NIH HHS/
+RR019771/RR/NCRR NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+U01 AG024904-04/AG/NIA NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, P.H.S.
+2009/01/28 09:00
+Hum Brain Mapp. 2009 Sep;30(9):2766-88. doi: 10.1002/hbm.20708.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/19172649
+Author Address: Laboratory of Neuro Imaging, Department of Neurology, UCLA School of Medicine, Los Angeles, California 90095-1769, USA.
+
+

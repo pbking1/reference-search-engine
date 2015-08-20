@@ -1,0 +1,51 @@
+from django.shortcuts import render
+from django.http import HttpResponse
+from datetime import datetime
+import sys
+import xapian
+from firsttest.models import search_result
+
+# Create your views here.
+def hello_world(request):
+    # Open the database for searching.
+    database = xapian.Database("/home/pb/Documents/python/django_test/mysite/firsttest/index")
+
+    # Start an enquire session.
+    enquire = xapian.Enquire(database)
+
+    # Combine the rest of the command line arguments with spaces between
+    # them, so that simple queries don't have to be quoted at the shell
+    # level.
+
+    #second parameter is the search key word
+    query_string = str.join(' ', "2014")
+
+    # Parse the query string to produce a Xapian::Query object.
+    qp = xapian.QueryParser()
+    stemmer = xapian.Stem("english")
+    qp.set_stemmer(stemmer)
+    qp.set_database(database)
+    qp.set_stemming_strategy(xapian.QueryParser.STEM_SOME)
+    query = qp.parse_query(query_string)
+    print "Parsed query is: %s" % str(query)
+
+    # Find the top 10 results for the query.
+    enquire.set_query(query)
+    matches = enquire.get_mset(0, 10)
+    
+    # Display the results.
+    print "%i results found." % matches.get_matches_estimated()
+    result_found = matches.get_matches_estimated()
+    print "Results 1-%i:" % matches.size()
+    
+    #remove all the data in the database first, and then displace them
+    search_result1 = search_result.objects.all() 
+    search_result1.delete()
+    i = 0
+    for m in matches:
+        i = i + 1
+        #output1 = "%i: %i%% docid=%i [%s]\n" % (m.rank + 1, m.percent, m.docid, m.document.get_data())
+	#output.append(output1)
+	search_result.objects.create(result_id= i, total_result_number=str(result_found),match_rate=str(m.percent),doc_id=str(m.docid),content=str(m.document.get_data()))
+
+    return render(request, 'hello_world.html', {'result': (search_result.objects.all())})

@@ -1,0 +1,26 @@
+Reference Type:  Journal Article
+Record Number: 2331
+Author: Printy, B. P., Verma, N., Cowperthwaite, M. C. and Markey, M. K.
+Year: 2014
+Title: Effects of genetic variation on the dynamics of neurodegeneration in Alzheimer's disease
+Journal: Conf Proc IEEE Eng Med Biol Soc
+Volume: 2014
+Pages: 2464-7
+Date: Aug
+Short Title: Effects of genetic variation on the dynamics of neurodegeneration in Alzheimer's disease
+Alternate Journal: Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference
+ISSN: 1557-170X (Print)
+1557-170X (Linking)
+DOI: 10.1109/EMBC.2014.6944121
+Accession Number: 25570489
+Abstract: Although many genetic markers are identified as being associated with Alzheimer's disease (AD), not much is known about their association with the structural changes that happen as the disease progresses. In this study, we investigate the genetic etiology of neurodegeneration in AD by associating genetic markers with atrophy profiles obtained using patient data from the Alzheimer's Disease Neuroimaging Initiative (ADNI) cohort. The atrophy profiles were quantified using a linear least-squares regression model over the span of patient enrollment, and used as imaging features throughout the analysis. A subset of the imaging features were selected for genetic association based on their ability to discriminate between healthy individuals and AD patients in a Support Vector Machines (SVM) classifier. Each imaging feature was associated with single-nucleotide polymorphisms (SNPs) using a linear model that included age and cognitive impairment scores as covariates to correct for normal disease progression. After false discovery rate correction, we observed 53 significant associations between SNPs and our imaging features, including associations of ventricular enlargement with SNPs on estrogen receptor 1 (ESR1) and sortilin-related VPS10 domain containing receptor 1 (SORCS1), hippocampal atrophy with SNPs on ESR1, and cerebral atrophy with SNPs on transferrin (TF) and amyloid beta precursor protein (APP). This study provides important insights into genetic predictors of specific types of neurodegeneration that could potentially be used to improve the efficacy of treatment strategies for the disease and allow the development of personalized treatment plans based on each patient's unique genetic profile.
+Notes: Printy, Blake P
+Verma, Nishant
+Cowperthwaite, Matthew C
+Markey, Mia K
+eng
+2015/01/09 06:00
+Conf Proc IEEE Eng Med Biol Soc. 2014 Aug;2014:2464-7. doi: 10.1109/EMBC.2014.6944121.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/25570489
+
+

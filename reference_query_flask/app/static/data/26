@@ -1,0 +1,58 @@
+Reference Type:  Journal Article
+Record Number: 2177
+Author: Wang, H., Nie, F., Huang, H., Risacher, S. L., Saykin, A. J., Shen, L. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2012
+Title: Identifying disease sensitive and quantitative trait-relevant biomarkers from multidimensional heterogeneous imaging genetics data via sparse multimodal multitask learning
+Journal: Bioinformatics
+Volume: 28
+Issue: 12
+Pages: i127-36
+Date: Jun 15
+Short Title: Identifying disease sensitive and quantitative trait-relevant biomarkers from multidimensional heterogeneous imaging genetics data via sparse multimodal multitask learning
+Alternate Journal: Bioinformatics
+ISSN: 1367-4811 (Electronic)
+1367-4803 (Linking)
+DOI: 10.1093/bioinformatics/bts228
+PMCID: 3371860
+Accession Number: 22689752
+Keywords: *Algorithms
+Alzheimer Disease/*diagnosis/genetics
+*Artificial Intelligence
+Biological Markers/analysis
+Brain/metabolism
+Cognition Disorders/diagnosis/genetics
+Genotype
+Humans
+*Neuroimaging
+Phenotype
+Quantitative Trait Loci
+Software
+Support Vector Machines
+Abstract: MOTIVATION: Recent advances in brain imaging and high-throughput genotyping techniques enable new approaches to study the influence of genetic and anatomical variations on brain functions and disorders. Traditional association studies typically perform independent and pairwise analysis among neuroimaging measures, cognitive scores and disease status, and ignore the important underlying interacting relationships between these units. RESULTS: To overcome this limitation, in this article, we propose a new sparse multimodal multitask learning method to reveal complex relationships from gene to brain to symptom. Our main contributions are three-fold: (i) introducing combined structured sparsity regularizations into multimodal multitask learning to integrate multidimensional heterogeneous imaging genetics data and identify multimodal biomarkers; (ii) utilizing a joint classification and regression learning model to identify disease-sensitive and cognition-relevant biomarkers; (iii) deriving a new efficient optimization algorithm to solve our non-smooth objective function and providing rigorous theoretical analysis on the global optimum convergency. Using the imaging genetics data from the Alzheimer's Disease Neuroimaging Initiative database, the effectiveness of the proposed method is demonstrated by clearly improved performance on predicting both cognitive scores and disease status. The identified multimodal biomarkers could predict not only disease status but also cognitive function to help elucidate the biological pathway from gene to brain structure and function, and to cognition and disease. AVAILABILITY: Software is publicly available at: http://ranger.uta.edu/%7eheng/multimodal/.
+Notes: Wang, Hua
+Nie, Feiping
+Huang, Heng
+Risacher, Shannon L
+Saykin, Andrew J
+Shen, Li
+eng
+K01 AG030514/AG/NIA NIH HHS/
+P30 AG010129/AG/NIA NIH HHS/
+P30 AG10133-18S1/AG/NIA NIH HHS/
+R01 AG19771/AG/NIA NIH HHS/
+RC2 AG036535/AG/NIA NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+UL1 RR025761/RR/NCRR NIH HHS/
+UL1 TR000117/TR/NCATS NIH HHS/
+Canadian Institutes of Health Research/Canada
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+England
+Oxford, England
+2012/06/13 06:00
+Bioinformatics. 2012 Jun 15;28(12):i127-36. doi: 10.1093/bioinformatics/bts228.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/22689752
+Author Address: Department of Computer Science and Engineering, University of Texas at Arlington, TX 76019, USA.
+
+

@@ -1,0 +1,30 @@
+Reference Type:  Journal Article
+Record Number: 2092
+Author: Muehlboeck, J. S., Westman, E. and Simmons, A.
+Year: 2014
+Title: TheHiveDB image data management and analysis framework
+Journal: Front Neuroinform
+Volume: 7
+Pages: 49
+Date: Jan 6
+Short Title: TheHiveDB image data management and analysis framework
+Alternate Journal: Frontiers in neuroinformatics
+ISSN: 1662-5196 (Electronic)
+1662-5196 (Linking)
+DOI: 10.3389/fninf.2013.00049
+PMCID: 3880907
+Accession Number: 24432000
+Abstract: The hive database system (theHiveDB) is a web-based brain imaging database, collaboration, and activity system which has been designed as an imaging workflow management system capable of handling cross-sectional and longitudinal multi-center studies. It can be used to organize and integrate existing data from heterogeneous projects as well as data from ongoing studies. It has been conceived to guide and assist the researcher throughout the entire research process, integrating all relevant types of data across modalities (e.g., brain imaging, clinical, and genetic data). TheHiveDB is a modern activity and resource management system capable of scheduling image processing on both private compute resources and the cloud. The activity component supports common image archival and management tasks as well as established pipeline processing (e.g., Freesurfer for extraction of scalar measures from magnetic resonance images). Furthermore, via theHiveDB activity system algorithm developers may grant access to virtual machines hosting versioned releases of their tools to collaborators and the imaging community. The application of theHiveDB is illustrated with a brief use case based on organizing, processing, and analyzing data from the publically available Alzheimer Disease Neuroimaging Initiative.
+Notes: Muehlboeck, J-Sebastian
+Westman, Eric
+Simmons, Andrew
+eng
+Switzerland
+2014/01/17 06:00
+Front Neuroinform. 2014 Jan 6;7:49. doi: 10.3389/fninf.2013.00049. eCollection 2014 Jan 6.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/24432000
+Author Address: Department of Neuroimaging, Institute of Psychiatry, King's College London London, UK ; Department of Neurobiology, Care Sciences and Society, Karolinska Institutet Stockholm, Sweden ; J-S Muehlboeck Inc., Montreal QC, Canada.
+Department of Neuroimaging, Institute of Psychiatry, King's College London London, UK ; Department of Neurobiology, Care Sciences and Society, Karolinska Institutet Stockholm, Sweden.
+Department of Neuroimaging, Institute of Psychiatry, King's College London London, UK ; NIHR Biomedical Research Centre for Mental Health, King's College London London, UK ; NIHR Biomedical Research Unit for Dementia, King's College London London, UK.
+
+

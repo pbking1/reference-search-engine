@@ -1,0 +1,40 @@
+Reference Type:  Journal Article
+Record Number: 2185
+Author: Kohannim, O., Hibar, D. P., Jahanshad, N., Stein, J. L., Hua, X., Toga, A. W., Jack, C. R., Jr., Weiner, M. W., Thompson, P. M. and the Alzheimer's Disease Neuroimaging, Initiative
+Year: 2012
+Title: Predicting Temporal Lobe Volume on Mri from Genotypes Using L(1)-L(2) Regularized Regression
+Journal: Proc IEEE Int Symp Biomed Imaging
+Pages: 1160-1163
+Short Title: Predicting Temporal Lobe Volume on Mri from Genotypes Using L(1)-L(2) Regularized Regression
+Alternate Journal: Proceedings / IEEE International Symposium on Biomedical Imaging: from nano to macro. IEEE International Symposium on Biomedical Imaging
+ISSN: 1945-7928 (Print)
+1945-7928 (Linking)
+DOI: 10.1109/ISBI.2012.6235766
+PMCID: 3420969
+Accession Number: 22903144
+Abstract: Penalized or sparse regression methods are gaining increasing attention in imaging genomics, as they can select optimal regressors from a large set of predictors whose individual effects are small or mostly zero. We applied a multivariate approach, based on L(1)-L(2)-regularized regression (elastic net) to predict a magnetic resonance imaging (MRI) tensor-based morphometry-derived measure of temporal lobe volume from a genome-wide scan in 740 Alzheimer's Disease Neuroimaging Initiative (ADNI) subjects. We tuned the elastic net model's parameters using internal crossvalidation and evaluated the model on independent test sets. Compared to 100,000 permutations performed with randomized imaging measures, the predictions were found to be statistically significant (p ~ 0.001). The rs9933137 variant in the RBFOX1 gene was a highly contributory genotype, along with rs10845840 in GRIN2B and rs2456930, discovered previously in a univariate genomewide search.
+Notes: Kohannim, Omid
+Hibar, Derrek P
+Jahanshad, Neda
+Stein, Jason L
+Hua, Xue
+Toga, Arthur W
+Jack, Clifford R Jr
+Weiner, Michael W
+Thompson, Paul M
+ENG
+F30 AG041681/AG/NIA NIH HHS/
+K01 AG030514/AG/NIA NIH HHS/
+P30 AG010129/AG/NIA NIH HHS/
+P50 AG016570/AG/NIA NIH HHS/
+R01 AG040060/AG/NIA NIH HHS/
+R21 EB001561/EB/NIBIB NIH HHS/
+R21 RR019771/RR/NCRR NIH HHS/
+T32 GM008042/GM/NIGMS NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+2012/08/21 06:00
+Proc IEEE Int Symp Biomed Imaging. 2012:1160-1163.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/22903144
+Author Address: Laboratory of Neuro Imaging, Dept. of Neurology, UCLA School of Medicine, Los Angeles, CA, USA.
+
+

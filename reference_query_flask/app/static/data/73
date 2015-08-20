@@ -1,0 +1,49 @@
+Reference Type:  Journal Article
+Record Number: 2142
+Author: Silver, M., Janousova, E., Hua, X., Thompson, P. M., Montana, G. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2012
+Title: Identification of gene pathways implicated in Alzheimer's disease using longitudinal imaging phenotypes with sparse regression
+Journal: Neuroimage
+Volume: 63
+Issue: 3
+Pages: 1681-94
+Date: Nov 15
+Short Title: Identification of gene pathways implicated in Alzheimer's disease using longitudinal imaging phenotypes with sparse regression
+Alternate Journal: NeuroImage
+ISSN: 1095-9572 (Electronic)
+1053-8119 (Linking)
+DOI: 10.1016/j.neuroimage.2012.08.002
+PMCID: 3549495
+Accession Number: 22982105
+Keywords: Aged
+Alzheimer Disease/*genetics/pathology
+Female
+Genetic Predisposition to Disease
+Genome-Wide Association Study
+Humans
+Magnetic Resonance Imaging
+Male
+Phenotype
+Polymorphism, Single Nucleotide
+Signal Transduction/*genetics
+Abstract: We present a new method for the detection of gene pathways associated with a multivariate quantitative trait, and use it to identify causal pathways associated with an imaging endophenotype characteristic of longitudinal structural change in the brains of patients with Alzheimer's disease (AD). Our method, known as pathways sparse reduced-rank regression (PsRRR), uses group lasso penalised regression to jointly model the effects of genome-wide single nucleotide polymorphisms (SNPs), grouped into functional pathways using prior knowledge of gene-gene interactions. Pathways are ranked in order of importance using a resampling strategy that exploits finite sample variability. Our application study uses whole genome scans and MR images from 99 probable AD patients and 164 healthy elderly controls in the Alzheimer's Disease Neuroimaging Initiative (ADNI) database. 66,182 SNPs are mapped to 185 gene pathways from the KEGG pathway database. Voxel-wise imaging signatures characteristic of AD are obtained by analysing 3D patterns of structural change at 6, 12 and 24 months relative to baseline. High-ranking, AD endophenotype-associated pathways in our study include those describing insulin signalling, vascular smooth muscle contraction and focal adhesion. All of these have been previously implicated in AD biology. In a secondary analysis, we investigate SNPs and genes that may be driving pathway selection. High ranking genes include a number previously linked in gene expression studies to beta-amyloid plaque formation in the AD brain (PIK3R3,PIK3CG,PRKCAandPRKCB), and to AD related changes in hippocampal gene expression (ADCY2, ACTN1, ACACA, and GNAI1). Other high ranking previously validated AD endophenotype-related genes include CR1, TOMM40 and APOE.
+Notes: Silver, Matt
+Janousova, Eva
+Hua, Xue
+Thompson, Paul M
+Montana, Giovanni
+eng
+086766/Z/08/Z/Wellcome Trust/United Kingdom
+K01 AG030514/AG/NIA NIH HHS/
+P30 AG010129/AG/NIA NIH HHS/
+R01AG040060/AG/NIA NIH HHS/
+R01EB008281/EB/NIBIB NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+2012/09/18 06:00
+Neuroimage. 2012 Nov 15;63(3):1681-94. doi: 10.1016/j.neuroimage.2012.08.002. Epub 2012 Aug 15.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/22982105
+Author Address: Statistics Section, Department of Mathematics, Imperial College London, UK.
+
+

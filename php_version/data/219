@@ -1,0 +1,44 @@
+Reference Type:  Journal Article
+Record Number: 2141
+Author: Ito, K., Hutmacher, M. M. and Corrigan, B. W.
+Year: 2012
+Title: Modeling of Functional Assessment Questionnaire (FAQ) as continuous bounded data from the ADNI database
+Journal: J Pharmacokinet Pharmacodyn
+Volume: 39
+Issue: 6
+Pages: 601-18
+Date: Dec
+Short Title: Modeling of Functional Assessment Questionnaire (FAQ) as continuous bounded data from the ADNI database
+Alternate Journal: Journal of pharmacokinetics and pharmacodynamics
+ISSN: 1573-8744 (Electronic)
+1567-567X (Linking)
+DOI: 10.1007/s10928-012-9271-3
+Accession Number: 22990808
+Keywords: Activities of Daily Living
+Aged
+Alzheimer Disease/*genetics/metabolism/*physiopathology
+Apolipoprotein E4/genetics
+Biological Markers/metabolism
+*Databases, Factual
+Diagnostic Imaging/methods
+Disease Progression
+Female
+Humans
+Male
+Mild Cognitive Impairment/genetics/physiopathology
+Models, Statistical
+Neuropsychological Tests
+*Questionnaires
+Abstract: An assessment of abilities to function independently in daily life is an important clinical endpoint for all Alzheimer's disease (AD) patients and caregivers. A mathematical model was developed to describe the natural history of change of the Functional Assessment Questionnaire (FAQ) from data obtained in normal elderly, mild cognitive impairment, and mild AD in the AD neuroimaging initiative (ADNI) study. FAQ is a bounded outcome (ranging from 0 to 30), with 0 scored as "no impairment" and 30 as "severely impaired". Since many normal elderly patients had 0 scores and some AD patients had scores of 30 in the ADNI database, a censored approach for handling the boundary data was compared with a standard approach, which ignores the bounded nature of the data. Baseline severity, ApoE4 genotype, age, sex, and imaging biomarkers were tested as covariates. The censored approach greatly improved the predictability of the disease progression in FAQ scores. The basic method for handling boundary data used in this analysis is also applicable to handle boundary observations for numerous other endpoints.
+Notes: Ito, K
+Hutmacher, M M
+Corrigan, B W
+eng
+U01 AG024904/AG/NIA NIH HHS/
+Research Support, N.I.H., Extramural
+2012/09/20 06:00
+J Pharmacokinet Pharmacodyn. 2012 Dec;39(6):601-18. doi: 10.1007/s10928-012-9271-3. Epub 2012 Sep 19.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/22990808
+Author Address: Pfizer Inc, Primary Care Business Unit, 445 Eastern Point Road, Groton, CT 06340, USA. kaori.ito@pfizer.com
+
+

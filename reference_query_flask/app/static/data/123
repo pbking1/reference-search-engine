@@ -1,0 +1,61 @@
+Reference Type:  Journal Article
+Record Number: 2198
+Author: O'Bryant, S. E., Xiao, G., Barber, R., Huebinger, R., Wilhelmsen, K., Edwards, M., Graff-Radford, N., Doody, R., Diaz-Arrastia, R., Texas Alzheimer's, Research, Care, Consortium and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2011
+Title: A blood-based screening tool for Alzheimer's disease that spans serum and plasma: findings from TARC and ADNI
+Journal: PLoS One
+Volume: 6
+Issue: 12
+Pages: e28092
+Short Title: A blood-based screening tool for Alzheimer's disease that spans serum and plasma: findings from TARC and ADNI
+Alternate Journal: PloS one
+ISSN: 1932-6203 (Electronic)
+1932-6203 (Linking)
+DOI: 10.1371/journal.pone.0028092
+PMCID: 3233542
+Accession Number: 22163278
+Keywords: Aged
+Aged, 80 and over
+Algorithms
+Alzheimer Disease/*blood/*diagnosis
+Apolipoprotein E4/genetics
+Area Under Curve
+Biological Markers/blood
+Cerebrospinal Fluid/metabolism
+Cohort Studies
+Computational Biology/methods
+Female
+Humans
+Likelihood Functions
+Male
+Mass Screening/*methods
+Middle Aged
+Plasma/*metabolism
+Predictive Value of Tests
+Sensitivity and Specificity
+Serum/*metabolism
+Texas
+Abstract: CONTEXT: There is no rapid and cost effective tool that can be implemented as a front-line screening tool for Alzheimer's disease (AD) at the population level. OBJECTIVE: To generate and cross-validate a blood-based screener for AD that yields acceptable accuracy across both serum and plasma. DESIGN, SETTING, PARTICIPANTS: Analysis of serum biomarker proteins were conducted on 197 Alzheimer's disease (AD) participants and 199 control participants from the Texas Alzheimer's Research Consortium (TARC) with further analysis conducted on plasma proteins from 112 AD and 52 control participants from the Alzheimer's Disease Neuroimaging Initiative (ADNI). The full algorithm was derived from a biomarker risk score, clinical lab (glucose, triglycerides, total cholesterol, homocysteine), and demographic (age, gender, education, APOE*E4 status) data. MAJOR OUTCOME MEASURES: Alzheimer's disease. RESULTS: 11 proteins met our criteria and were utilized for the biomarker risk score. The random forest (RF) biomarker risk score from the TARC serum samples (training set) yielded adequate accuracy in the ADNI plasma sample (training set) (AUC = 0.70, sensitivity (SN) = 0.54 and specificity (SP) = 0.78), which was below that obtained from ADNI cerebral spinal fluid (CSF) analyses (t-tau/Abeta ratio AUC = 0.92). However, the full algorithm yielded excellent accuracy (AUC = 0.88, SN = 0.75, and SP = 0.91). The likelihood ratio of having AD based on a positive test finding (LR+) = 7.03 (SE = 1.17; 95% CI = 4.49-14.47), the likelihood ratio of not having AD based on the algorithm (LR-) = 3.55 (SE = 1.15; 2.22-5.71), and the odds ratio of AD were calculated in the ADNI cohort (OR) = 28.70 (1.55; 95% CI = 11.86-69.47). CONCLUSIONS: It is possible to create a blood-based screening algorithm that works across both serum and plasma that provides a comparable screening accuracy to that obtained from CSF analyses.
+Notes: O'Bryant, Sid E
+Xiao, Guanghua
+Barber, Robert
+Huebinger, Ryan
+Wilhelmsen, Kirk
+Edwards, Melissa
+Graff-Radford, Neill
+Doody, Rachelle
+Diaz-Arrastia, Ramon
+eng
+K01 AG030514/AG/NIA NIH HHS/
+P30 AG010129/AG/NIA NIH HHS/
+P30AG12300/AG/NIA NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, P.H.S.
+2011/12/14 06:00
+PLoS One. 2011;6(12):e28092. doi: 10.1371/journal.pone.0028092. Epub 2011 Dec 7.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/22163278
+Author Address: Department of Neurology, F. Marie Hall Institute for Rural and Community Health, Texas Tech University Health Sciences Center, Lubbock, Texas, United States of America. Sid.Obryant@ttuhsc.edu
+
+

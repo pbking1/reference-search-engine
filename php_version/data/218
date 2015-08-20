@@ -1,0 +1,28 @@
+Reference Type:  Journal Article
+Record Number: 2304
+Author: Iturria-Medina, Y., Sotero, R. C., Toussaint, P. J., Evans, A. C. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2014
+Title: Epidemic spreading model to characterize misfolded proteins propagation in aging and associated neurodegenerative disorders
+Journal: PLoS Comput Biol
+Volume: 10
+Issue: 11
+Pages: e1003956
+Date: Nov
+Short Title: Epidemic spreading model to characterize misfolded proteins propagation in aging and associated neurodegenerative disorders
+Alternate Journal: PLoS computational biology
+ISSN: 1553-7358 (Electronic)
+1553-734X (Linking)
+DOI: 10.1371/journal.pcbi.1003956
+Accession Number: 25412207
+Abstract: Misfolded proteins (MP) are a key component in aging and associated neurodegenerative disorders. For example, misfolded Amyloid-ss (Ass) and tau proteins are two neuropathogenic hallmarks of Alzheimer's disease. Mechanisms underlying intra-brain MP propagation/deposition remain essentially uncharacterized. Here, is introduced an epidemic spreading model (ESM) for MP dynamics that considers propagation-like interactions between MP agents and the brain's clearance response across the structural connectome. The ESM reproduces advanced Ass deposition patterns in the human brain (explaining 46 approximately 56% of the variance in regional Ass loads, in 733 subjects from the ADNI database). Furthermore, this model strongly supports a) the leading role of Ass clearance deficiency and early Ass onset age during Alzheimer's disease progression, b) that effective anatomical distance from Ass outbreak region explains regional Ass arrival time and Ass deposition likelihood, c) the multi-factorial impact of APOE e4 genotype, gender and educational level on lifetime intra-brain Ass propagation, and d) the modulatory impact of Ass propagation history on tau proteins concentrations, supporting the hypothesis of an interrelated pathway between Ass pathophysiology and tauopathy. To our knowledge, the ESM is the first computational model highlighting the direct link between structural brain networks, production/clearance of pathogenic proteins and associated intercellular transfer mechanisms, individual genetic/demographic properties and clinical states in health and disease. In sum, the proposed ESM constitutes a promising framework to clarify intra-brain region to region transference mechanisms associated with aging and neurodegenerative disorders.
+Notes: Iturria-Medina, Yasser
+Sotero, Roberto C
+Toussaint, Paule J
+Evans, Alan C
+eng
+2014/11/21 06:00
+PLoS Comput Biol. 2014 Nov 20;10(11):e1003956. doi: 10.1371/journal.pcbi.1003956. eCollection 2014 Nov.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/25412207
+Author Address: Montreal Neurological Institute, Montreal, Quebec, Canada.
+
+

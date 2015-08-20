@@ -1,0 +1,44 @@
+Reference Type:  Serial
+Record Number: 1069
+Author: Batmanghelich, N. K., Dalca, A. V., Sabuncu, M. R. and Golland, P.
+Year: 2013
+Title: Joint modeling of imaging and genetics
+Place Published: Asilomar, CA
+Volume: 7917 LNCS
+Pages: 766-777
+Series Title: 23rd International Conference on Information Processing in Medical Imaging, IPMI 2013
+Short Title: Joint modeling of imaging and genetics
+ISBN: 03029743 (ISSN); 9783642388675 (ISBN)
+DOI: 10.1007/978-3-642-38868-2_64
+Keywords: Bayesian Models
+Imaging Genetics
+Probabilistic Graphical Model
+Variational Inference
+Approximate inference
+Bayesian frameworks
+Bayesian model
+Image-based features
+Probabilistic graphical models
+Probabilistic measures
+Algorithms
+Bayesian networks
+Data processing
+Inference engines
+Medical imaging
+Chromosomes
+Abstract: We propose a unified Bayesian framework for detecting genetic variants associated with a disease while exploiting image-based features as an intermediate phenotype. Traditionally, imaging genetics methods comprise two separate steps. First, image features are selected based on their relevance to the disease phenotype. Second, a set of genetic variants are identified to explain the selected features. In contrast, our method performs these tasks simultaneously to ultimately assign probabilistic measures of relevance to both genetic and imaging markers. We derive an efficient approximate inference algorithm that handles high dimensionality of imaging genetic data. We evaluate the algorithm on synthetic data and show that it outperforms traditional models. We also illustrate the application of the method on ADNI data. © 2013 Springer-Verlag.
+Notes: Conference code: 97746
+Cited By (since 1996):1
+Export Date: 28 May 2014
+Source: Scopus
+Language of Original Document: English
+Correspondence Address: Computer Science and Artificial Intelligence Laboratory, MIT, Cambridge, MA, United States; email: kayhan@csail.mit.edu
+Funding Details: A2012333, AHAF, American Health Assistance Foundation
+Funding Details: NSERC, Natural Sciences and Engineering Research Council of Canada
+References: Batmanghelich, N.K., Taskar, B., Davatzikos, C., Generative-discriminative basis learning for medical imaging (2012) IEEE Trans. Med. Imaging, 31 (1), pp. 51-69; Bishop, C.M., (2006) Pattern Recognition and Machine Learning, , Springer, New York; Carbonetto, P., Stephens, M., Scalable Variational Inference for Bayesian Variable Selection in Regression, and its Accuracy in Genetic Association Studies (2012) Bayesian Analysis, 7, pp. 73-108; Fan, Y., Batmanghelich, N., Clark, C.M., Davatzikos, C., ADNI: Spatial patterns of brain atrophy in MCI patients, identified via high-dimensional pattern classification, predict subsequent cognitive decline (2008) Neuroimage, 39 (4), pp. 1731-1743; Filippini, N., Rao, A., Wetten, S., Gibson, R.A., Anatomically-distinct genetic associations of APOE epsilon4 allele load with regional cortical atrophy in Alzheimer's disease (2009) Neuroimage, 44 (3), pp. 724-728; Harold, D., Abraham, R., Hollingworth, P., Sims, R., Genome-wide association study identifies variants at clu and picalm associated with Alzheimer's disease (2009) Nat. Genet., 41 (10), pp. 1088-1093; Hernandez-Laborto, J.M., Hernandezi-Lobato, D., (2011) Convergent Expectation Propagation in Linear Models with Spike-and-Slab Priors, , December; Jaakkola, T.S., Jordan, M.I., Bayesian Paramater Estimation via Variational Methods (2000) Statistics and Computing, (10), pp. 25-37; Le Floch, E., Guillemot, V., Frouin, V., Pinel, P., Significant correlation between a set of genetic polymorphisms and a functional brain network revealed by feature selection and sparse Partial Least Squares (2012) Neuroimage, 63 (1), pp. 11-24; Lee, J.H., Cheng, R., Graff-Radford, N., Foroud, T., Analyses of the national institute on aging late-onset Alzheimer's disease family study: Implication of additional loci (2008) Archives of Neurology, 65 (11), p. 1518; Lucchi, A., Smith, K., Achanta, R., Knott, G., Fua, P., Supervoxel-based segmentation of mitochondria in em image stacks with learned shape features (2012) IEEE Trans. Med. Imaging, 31 (2), pp. 474-486; Lvovs, D., Favorova, O.O., Favorov, A.V., A polygenic approach to the study of polygenic diseases (2012) Acta Naturae, 4 (3), p. 59; Mueller, S.G., Weiner, M.W., Thal, L.J., Petersen, R.C., The Alzheimer's disease neuroimaging initiative (2005) Neuroimaging Clinics of North America, 15 (4), p. 869; O'Hara, R.B., Sillanpää, M.J., A Review of Bayesian Variable Selection Methods: What, How and Which (2009) Bayesian Analisis, 4 (1), pp. 85-118; Potkin, S.G., Turner, J.A., Guffanti, G., Lakatos, A., A genome-wide association study of schizophrenia using brain activation as a quantitative phenotype (2009) Schizophr. Bull., 35 (1), pp. 96-108; Purcell, S., Neale, B., Todd-Brown, K., Thomas, L., PLINK: A tool set for wholegenome association and population-based linkage analyses (2007) Am. J. Hum. Genet., 81 (3), pp. 559-575; Sabuncu, M.R., Van Leemput, K., The Relevance Voxel Machine (RVoxM): A Bayesian Method for Image-Based Prediction (2011) LNCS, 6893, pp. 99-106. , Fichtinger, G., Martel, A., Peters, T. (eds.) MICCAI 2011, Part III. Springer, Heidelberg; Stein, J.L., Hua, X., Lee, S., Ho, A.J., Voxelwise genome-wide association study (vGWAS) (2010) Neuroimage, 53 (3), pp. 1160-1174; Vounou, M., Janousova, E., Wolz, R., Stein, J.L., Sparse reduced-rank regression detects genetic associations with voxel-wise longitudinal phenotypes in Alzheimer's disease (2012) Neuroimage, 60 (1), pp. 700-716; Vounou, M., Nichols, T.E., Montana, G., ADNI: Discovering genetic associations with highdimensional neuroimaging phenotypes: A sparse reduced-rank regression approach (2010) Neuroimage, 53 (3), pp. 1147-1159
+URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84879867440&partnerID=40&md5=2cb63aec748a95fa60076c85c31f5245
+Author Address: Computer Science and Artificial Intelligence Laboratory, MIT, Cambridge, MA, United States
+Martinos Center for Biomedical Imaging, Charlestown, MA, United States
+Access Date: 28 June 2013 through 3 July 2013
+
+

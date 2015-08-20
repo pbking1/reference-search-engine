@@ -1,0 +1,42 @@
+Reference Type:  Journal Article
+Record Number: 2270
+Author: Silver, M., Montana, G., Nichols, T. E. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2011
+Title: False positives in neuroimaging genetics using voxel-based morphometry data
+Journal: Neuroimage
+Volume: 54
+Issue: 2
+Pages: 992-1000
+Date: Jan 15
+Short Title: False positives in neuroimaging genetics using voxel-based morphometry data
+Alternate Journal: NeuroImage
+ISSN: 1095-9572 (Electronic)
+1053-8119 (Linking)
+DOI: 10.1016/j.neuroimage.2010.08.049
+PMCID: 3063336
+Accession Number: 20849959
+Keywords: Brain/*pathology/physiopathology
+Cognition Disorders/*genetics/*pathology
+False Positive Reactions
+Genotype
+Humans
+Magnetic Resonance Imaging
+Polymorphism, Single Nucleotide
+Abstract: Voxel-wise statistical inference is commonly used to identify significant experimental effects or group differences in both functional and structural studies of the living brain. Tests based on the size of spatially extended clusters of contiguous suprathreshold voxels are also widely used due to their typically increased statistical power. In "imaging genetics", such tests are used to identify regions of the brain that are associated with genetic variation. However, concerns have been raised about the adequate control of rejection rates in studies of this type. A previous study tested the effect of a set of 'null' SNPs on brain structure and function, and found that false positive rates were well-controlled. However, no similar analysis of false positive rates in an imaging genetic study using cluster size inference has yet been undertaken. We measured false positive rates in an investigation of the effect of 700 pre-selected null SNPs on grey matter volume using voxel-based morphometry (VBM). As VBM data exhibit spatially-varying smoothness, we used both non-stationary and stationary cluster size tests in our analysis. Image and genotype data on 181 subjects with mild cognitive impairment were obtained from the Alzheimer's Disease Neuroimaging Initiative (ADNI). At a nominal significance level of 5%, false positive rates were found to be well-controlled (3.9-5.6%), using a relatively high cluster-forming threshold, alpha(c)=0.001, on images smoothed with a 12 mm Gaussian kernel. Tests were however anticonservative at lower cluster-forming thresholds (alpha(c)=0.01, 0.05), and for images smoothed using a 6mm Gaussian kernel. Here false positive rates ranged from 9.8 to 67.6%. In a further analysis, false positive rates using simulated data were observed to be well-controlled across a wide range of conditions. While motivated by imaging genetics, our findings apply to any VBM study, and suggest that parametric cluster size inference should only be used with high cluster-forming thresholds and smoothness. We would advocate the use of nonparametric methods in other cases.
+Notes: Silver, Matt
+Montana, Giovanni
+Nichols, Thomas E
+eng
+G0900908/Medical Research Council/United Kingdom
+K01 AG030514/AG/NIA NIH HHS/
+P30 AG010129/AG/NIA NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+Wellcome Trust/United Kingdom
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+2010/09/21 06:00
+Neuroimage. 2011 Jan 15;54(2):992-1000. doi: 10.1016/j.neuroimage.2010.08.049. Epub 2010 Sep 20.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/20849959
+Author Address: Department of Mathematics, Imperial College London, London, UK.
+
+

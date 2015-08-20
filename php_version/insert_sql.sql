@@ -1,0 +1,36 @@
+use reference_db;
+
+/*truncate reference*/
+
+drop table reference;
+
+CREATE TABLE reference (
+  id INT NOT NULL AUTO_INCREMENT,
+  ReferenceType VARCHAR(255) NOT NULL,
+  Record_Number VARCHAR(255) NOT NULL,
+  Author VARCHAR(255) NOT NULL,
+  Year VARCHAR(255) NOT NULL,
+  Journal VARCHAR(255) NOT NULL,
+  Volume VARCHAR(255) NOT NULL,
+  Issue VARCHAR(255) NOT NULL,
+  Pages VARCHAR(255) NOT NULL,
+  Short_Title VARCHAR(255) NOT NULL,
+  Alternate_Journal VARCHAR(255) NOT NULL,
+  ISSN VARCHAR(255) NOT NULL,
+  PMCID VARCHAR(255) NOT NULL,
+  Accession_Number VARCHAR(255) NOT NULL,
+  Abstract VARCHAR(255) NOT NULL,
+  Notes VARCHAR(255) NOT NULL,
+  URL VARCHAR(255) NOT NULL,
+  Author_Address VARCHAR(255) NOT NULL,
+  PRIMARY KEY (id)
+);
+
+
+
+LOAD DATA LOCAL INFILE '/path/data.csv' 
+INTO TABLE reference
+FIELDS TERMINATED BY '::' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS

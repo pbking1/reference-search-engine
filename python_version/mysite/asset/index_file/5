@@ -1,0 +1,30 @@
+Reference Type:  Journal Article
+Record Number: 622
+Author: Young, J., Modat, M., Cardoso, M. J., Mendelson, A., Cash, D., Ourselin, S. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2013
+Title: Accurate multimodal probabilistic prediction of conversion to Alzheimer's disease in patients with mild cognitive impairment
+Journal: Neuroimage Clin
+Volume: 2
+Pages: 735-45
+Short Title: Accurate multimodal probabilistic prediction of conversion to Alzheimer's disease in patients with mild cognitive impairment
+Alternate Journal: NeuroImage. Clinical
+ISSN: 2213-1582 (Electronic)
+2213-1582 (Linking)
+DOI: 10.1016/j.nicl.2013.05.004
+PMCID: 3777690
+Accession Number: 24179825
+Abstract: Accurately identifying the patients that have mild cognitive impairment (MCI) who will go on to develop Alzheimer's disease (AD) will become essential as new treatments will require identification of AD patients at earlier stages in the disease process. Most previous work in this area has centred around the same automated techniques used to diagnose AD patients from healthy controls, by coupling high dimensional brain image data or other relevant biomarker data to modern machine learning techniques. Such studies can now distinguish between AD patients and controls as accurately as an experienced clinician. Models trained on patients with AD and control subjects can also distinguish between MCI patients that will convert to AD within a given timeframe (MCI-c) and those that remain stable (MCI-s), although differences between these groups are smaller and thus, the corresponding accuracy is lower. The most common type of classifier used in these studies is the support vector machine, which gives categorical class decisions. In this paper, we introduce Gaussian process (GP) classification to the problem. This fully Bayesian method produces naturally probabilistic predictions, which we show correlate well with the actual chances of converting to AD within 3 years in a population of 96 MCI-s and 47 MCI-c subjects. Furthermore, we show that GPs can integrate multimodal data (in this study volumetric MRI, FDG-PET, cerebrospinal fluid, and APOE genotype with the classification process through the use of a mixed kernel). The GP approach aids combination of different data sources by learning parameters automatically from training data via type-II maximum likelihood, which we compare to a more conventional method based on cross validation and an SVM classifier. When the resulting probabilities from the GP are dichotomised to produce a binary classification, the results for predicting MCI conversion based on the combination of all three types of data show a balanced accuracy of 74%. This is a substantially higher accuracy than could be obtained using any individual modality or using a multikernel SVM, and is competitive with the highest accuracy yet achieved for predicting conversion within three years on the widely used ADNI dataset.
+Notes: Young, Jonathan
+Modat, Marc
+Cardoso, Manuel J
+Mendelson, Alex
+Cash, Dave
+Ourselin, Sebastien
+eng
+Netherlands
+2013/11/02 06:00
+Neuroimage Clin. 2013 May 19;2:735-45. doi: 10.1016/j.nicl.2013.05.004.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/24179825
+Author Address: Centre for Medical Image Computing, University College London, UK.
+
+

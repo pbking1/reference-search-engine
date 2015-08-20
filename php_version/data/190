@@ -1,0 +1,49 @@
+Reference Type:  Journal Article
+Record Number: 2174
+Author: Kohannim, O., Hibar, D. P., Stein, J. L., Jahanshad, N., Hua, X., Rajagopalan, P., Toga, A. W., Jack, C. R., Jr., Weiner, M. W., de Zubicaray, G. I., McMahon, K. L., Hansell, N. K., Martin, N. G., Wright, M. J., Thompson, P. M. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2012
+Title: Discovery and Replication of Gene Influences on Brain Structure Using LASSO Regression
+Journal: Front Neurosci
+Volume: 6
+Pages: 115
+Short Title: Discovery and Replication of Gene Influences on Brain Structure Using LASSO Regression
+Alternate Journal: Frontiers in neuroscience
+ISSN: 1662-453X (Electronic)
+1662-453X (Linking)
+DOI: 10.3389/fnins.2012.00115
+PMCID: 3412288
+Accession Number: 22888310
+Abstract: We implemented least absolute shrinkage and selection operator (LASSO) regression to evaluate gene effects in genome-wide association studies (GWAS) of brain images, using an MRI-derived temporal lobe volume measure from 729 subjects scanned as part of the Alzheimer's Disease Neuroimaging Initiative (ADNI). Sparse groups of SNPs in individual genes were selected by LASSO, which identifies efficient sets of variants influencing the data. These SNPs were considered jointly when assessing their association with neuroimaging measures. We discovered 22 genes that passed genome-wide significance for influencing temporal lobe volume. This was a substantially greater number of significant genes compared to those found with standard, univariate GWAS. These top genes are all expressed in the brain and include genes previously related to brain function or neuropsychiatric disorders such as MACROD2, SORCS2, GRIN2B, MAGI2, NPAS3, CLSTN2, GABRG3, NRXN3, PRKAG2, GAS7, RBFOX1, ADARB2, CHD4, and CDH13. The top genes we identified with this method also displayed significant and widespread post hoc effects on voxelwise, tensor-based morphometry (TBM) maps of the temporal lobes. The most significantly associated gene was an autism susceptibility gene known as MACROD2. We were able to successfully replicate the effect of the MACROD2 gene in an independent cohort of 564 young, Australian healthy adult twins and siblings scanned with MRI (mean age: 23.8 +/- 2.2 SD years). Our approach powerfully complements univariate techniques in detecting influences of genes on the living brain.
+Notes: Kohannim, Omid
+Hibar, Derrek P
+Stein, Jason L
+Jahanshad, Neda
+Hua, Xue
+Rajagopalan, Priya
+Toga, Arthur W
+Jack, Clifford R Jr
+Weiner, Michael W
+de Zubicaray, Greig I
+McMahon, Katie L
+Hansell, Narelle K
+Martin, Nicholas G
+Wright, Margaret J
+Thompson, Paul M
+eng
+F30 AG041681/AG/NIA NIH HHS/
+K01 AG030514/AG/NIA NIH HHS/
+P30 AG010129/AG/NIA NIH HHS/
+P50 AG016570/AG/NIA NIH HHS/
+R01 AG040060/AG/NIA NIH HHS/
+R01 MH097268/MH/NIMH NIH HHS/
+R21 EB001561/EB/NIBIB NIH HHS/
+R21 RR019771/RR/NCRR NIH HHS/
+T32 GM008042/GM/NIGMS NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+Switzerland
+2012/08/14 06:00
+Front Neurosci. 2012 Aug 6;6:115. doi: 10.3389/fnins.2012.00115. eCollection 2012.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/22888310
+Author Address: Imaging Genetics Center at the Laboratory of Neuro Imaging, Department of Neurology, UCLA School of Medicine Los Angeles, CA, USA.
+
+

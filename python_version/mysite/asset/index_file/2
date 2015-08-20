@@ -1,0 +1,29 @@
+Reference Type:  Journal Article
+Record Number: 2303
+Author: Zhang, Z., Huang, H., Shen, D. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2014
+Title: Integrative analysis of multi-dimensional imaging genomics data for Alzheimer's disease prediction
+Journal: Front Aging Neurosci
+Volume: 6
+Pages: 260
+Short Title: Integrative analysis of multi-dimensional imaging genomics data for Alzheimer's disease prediction
+Alternate Journal: Frontiers in aging neuroscience
+ISSN: 1663-4365 (Electronic)
+1663-4365 (Linking)
+DOI: 10.3389/fnagi.2014.00260
+PMCID: 4201101
+Accession Number: 25368574
+Abstract: In this paper, we explore the effects of integrating multi-dimensional imaging genomics data for Alzheimer's disease (AD) prediction using machine learning approaches. Precisely, we compare our three recent proposed feature selection methods [i.e., multiple kernel learning (MKL), high-order graph matching based feature selection (HGM-FS), sparse multimodal learning (SMML)] using four widely-used modalities [i.e., magnetic resonance imaging (MRI), positron emission tomography (PET), cerebrospinal fluid (CSF), and genetic modality single-nucleotide polymorphism (SNP)]. This study demonstrates the performance of each method using these modalities individually or integratively, and may be valuable to clinical tests in practice. Our experimental results suggest that for AD prediction, in general, (1) in terms of accuracy, PET is the best modality; (2) Even though the discriminant power of genetic SNP features is weak, adding this modality to other modalities does help improve the classification accuracy; (3) HGM-FS works best among the three feature selection methods; (4) Some of the selected features are shared by all the feature selection methods, which may have high correlation with the disease. Using all the modalities on the Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset, the best accuracies, described as (mean +/- standard deviation)%, among the three methods are (76.2 +/- 11.3)% for AD vs. MCI, (94.8 +/- 7.3)% for AD vs. HC, (76.5 +/- 11.1)% for MCI vs. HC, and (71.0 +/- 8.4)% for AD vs. MCI vs. HC, respectively.
+Notes: Zhang, Ziming
+Huang, Heng
+Shen, Dinggang
+eng
+Switzerland
+2014/11/05 06:00
+Front Aging Neurosci. 2014 Oct 17;6:260. doi: 10.3389/fnagi.2014.00260. eCollection 2014.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/25368574
+Author Address: Department of Radiology and Biomedical Research Imaging Center, University of North Carolina at Chapel Hill Chapel Hill, NC, USA.
+Department of Computer Science and Engineering, University of Texas at Arlington Arlington, TX, USA.
+Department of Radiology and Biomedical Research Imaging Center, University of North Carolina at Chapel Hill Chapel Hill, NC, USA ; Department of Brain and Cognitive Engineering, Korea University Seoul, Republic of Korea.
+
+

@@ -1,0 +1,47 @@
+Reference Type:  Journal Article
+Record Number: 2049
+Author: Cao, Y., Wei, P., Bailey, M., Kauwe, J. S., Maxwell, T. J. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2014
+Title: A versatile omnibus test for detecting mean and variance heterogeneity
+Journal: Genet Epidemiol
+Volume: 38
+Issue: 1
+Pages: 51-9
+Date: Jan
+Short Title: A versatile omnibus test for detecting mean and variance heterogeneity
+Alternate Journal: Genetic epidemiology
+ISSN: 1098-2272 (Electronic)
+0741-0395 (Linking)
+PMCID: 4019404
+Accession Number: 24482837
+Keywords: Alzheimer Disease/genetics
+Gene Frequency/genetics
+Genes
+Genotype
+Humans
+Likelihood Functions
+Linkage Disequilibrium/genetics
+Matrix Metalloproteinase 3/cerebrospinal fluid/genetics
+*Models, Genetic
+Phenotype
+Quantitative Trait Loci/*genetics
+Research Design
+Abstract: Recent research has revealed loci that display variance heterogeneity through various means such as biological disruption, linkage disequilibrium (LD), gene-by-gene (G x G), or gene-by-environment interaction. We propose a versatile likelihood ratio test that allows joint testing for mean and variance heterogeneity (LRT(MV)) or either effect alone (LRT(M) or LRT(V)) in the presence of covariates. Using extensive simulations for our method and others, we found that all parametric tests were sensitive to nonnormality regardless of any trait transformations. Coupling our test with the parametric bootstrap solves this issue. Using simulations and empirical data from a known mean-only functional variant, we demonstrate how LD can produce variance-heterogeneity loci (vQTL) in a predictable fashion based on differential allele frequencies, high D', and relatively low r(2) values. We propose that a joint test for mean and variance heterogeneity is more powerful than a variance-only test for detecting vQTL. This takes advantage of loci that also have mean effects without sacrificing much power to detect variance only effects. We discuss using vQTL as an approach to detect G x G interactions and also how vQTL are related to relationship loci, and how both can create prior hypothesis for each other and reveal the relationships between traits and possibly between components of a composite trait.
+Notes: Cao, Ying
+Wei, Peng
+Bailey, Matthew
+Kauwe, John S K
+Maxwell, Taylor J
+eng
+R01 CA169122/CA/NCI NIH HHS/
+R01 HL105502/HL/NHLBI NIH HHS/
+R01 HL116720/HL/NHLBI NIH HHS/
+R01CA169122/CA/NCI NIH HHS/
+R01HL105502/HL/NHLBI NIH HHS/
+R01HL116720/HL/NHLBI NIH HHS/
+Research Support, N.I.H., Extramural
+2014/02/01 06:00
+Genet Epidemiol. 2014 Jan;38(1):51-9.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/24482837
+
+

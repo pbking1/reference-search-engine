@@ -1,0 +1,38 @@
+Reference Type:  Journal Article
+Record Number: 2069
+Author: Young, A. L., Oxtoby, N. P., Daga, P., Cash, D. M., Fox, N. C., Ourselin, S., Schott, J. M., Alexander, D. C. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2014
+Title: A data-driven model of biomarker changes in sporadic Alzheimer's disease
+Journal: Brain
+Volume: 137
+Issue: Pt 9
+Pages: 2564-77
+Date: Sep
+Short Title: A data-driven model of biomarker changes in sporadic Alzheimer's disease
+Alternate Journal: Brain : a journal of neurology
+ISSN: 1460-2156 (Electronic)
+0006-8950 (Linking)
+DOI: 10.1093/brain/awu176
+PMCID: 4132648
+Accession Number: 25012224
+Abstract: We demonstrate the use of a probabilistic generative model to explore the biomarker changes occurring as Alzheimer's disease develops and progresses. We enhanced the recently introduced event-based model for use with a multi-modal sporadic disease data set. This allows us to determine the sequence in which Alzheimer's disease biomarkers become abnormal without reliance on a priori clinical diagnostic information or explicit biomarker cut points. The model also characterizes the uncertainty in the ordering and provides a natural patient staging system. Two hundred and eighty-five subjects (92 cognitively normal, 129 mild cognitive impairment, 64 Alzheimer's disease) were selected from the Alzheimer's Disease Neuroimaging Initiative with measurements of 14 Alzheimer's disease-related biomarkers including cerebrospinal fluid proteins, regional magnetic resonance imaging brain volume and rates of atrophy measures, and cognitive test scores. We used the event-based model to determine the sequence of biomarker abnormality and its uncertainty in various population subgroups. We used patient stages assigned by the event-based model to discriminate cognitively normal subjects from those with Alzheimer's disease, and predict conversion from mild cognitive impairment to Alzheimer's disease and cognitively normal to mild cognitive impairment. The model predicts that cerebrospinal fluid levels become abnormal first, followed by rates of atrophy, then cognitive test scores, and finally regional brain volumes. In amyloid-positive (cerebrospinal fluid amyloid-beta1-42 < 192 pg/ml) or APOE-positive (one or more APOE4 alleles) subjects, the model predicts with high confidence that the cerebrospinal fluid biomarkers become abnormal in a distinct sequence: amyloid-beta1-42, phosphorylated tau, total tau. However, in the broader population total tau and phosphorylated tau are found to be earlier cerebrospinal fluid markers than amyloid-beta1-42, albeit with more uncertainty. The model's staging system strongly separates cognitively normal and Alzheimer's disease subjects (maximum classification accuracy of 99%), and predicts conversion from mild cognitive impairment to Alzheimer's disease (maximum balanced accuracy of 77% over 3 years), and from cognitively normal to mild cognitive impairment (maximum balanced accuracy of 76% over 5 years). By fitting Cox proportional hazards models, we find that baseline model stage is a significant risk factor for conversion from both mild cognitive impairment to Alzheimer's disease (P = 2.06 x 10(-7)) and cognitively normal to mild cognitive impairment (P = 0.033). The data-driven model we describe supports hypothetical models of biomarker ordering in amyloid-positive and APOE-positive subjects, but suggests that biomarker ordering in the wider population may diverge from this sequence. The model provides useful disease staging information across the full spectrum of disease progression, from cognitively normal to mild cognitive impairment to Alzheimer's disease. This approach has broad application across neurodegenerative disease, providing insights into disease biology, as well as staging and prognostication.
+Notes: Young, Alexandra L
+Oxtoby, Neil P
+Daga, Pankaj
+Cash, David M
+Fox, Nick C
+Ourselin, Sebastien
+Schott, Jonathan M
+Alexander, Daniel C
+eng
+England
+2014/07/12 06:00
+Brain. 2014 Sep;137(Pt 9):2564-77. doi: 10.1093/brain/awu176. Epub 2014 Jul 9.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/25012224
+Author Address: 1 Centre for Medical Image Computing, Department of Computer Science, University College London, Gower Street, London, WC1E 6BT, UK alexandra.young.11@ucl.ac.uk.
+1 Centre for Medical Image Computing, Department of Computer Science, University College London, Gower Street, London, WC1E 6BT, UK.
+1 Centre for Medical Image Computing, Department of Computer Science, University College London, Gower Street, London, WC1E 6BT, UK2 Dementia Research Centre, UCL Institute of Neurology, University College London, 8-11 Queen Square, London, WC1N 3AR, UK alexandra.young.11@ucl.ac.uk.
+2 Dementia Research Centre, UCL Institute of Neurology, University College London, 8-11 Queen Square, London, WC1N 3AR, UK.
+1 Centre for Medical Image Computing, Department of Computer Science, University College London, Gower Street, London, WC1E 6BT, UK2 Dementia Research Centre, UCL Institute of Neurology, University College London, 8-11 Queen Square, London, WC1N 3AR, UK.
+
+

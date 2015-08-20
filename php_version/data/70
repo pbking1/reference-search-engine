@@ -1,0 +1,50 @@
+Reference Type:  Journal Article
+Record Number: 2137
+Author: Singh, N., Wang, A. Y., Sankaranarayanan, P., Fletcher, P. T., Joshi, S. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2012
+Title: Genetic, structural and functional imaging biomarkers for early detection of conversion from MCI to AD
+Journal: Med Image Comput Comput Assist Interv
+Volume: 15
+Issue: Pt 1
+Pages: 132-40
+Short Title: Genetic, structural and functional imaging biomarkers for early detection of conversion from MCI to AD
+Alternate Journal: Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention
+Accession Number: 23285544
+Keywords: Algorithms
+Alzheimer Disease/*diagnosis
+Amyloid beta-Peptides/metabolism
+Apolipoproteins E/metabolism
+Biological Markers/*metabolism
+Brain/pathology
+Databases, Factual
+Diagnostic Imaging/methods
+Disease Progression
+Genotype
+Humans
+Least-Squares Analysis
+Mild Cognitive Impairment/*diagnosis
+Models, Theoretical
+Neurons/pathology
+Peptide Fragments/metabolism
+Positron-Emission Tomography/methods
+Risk Factors
+Abstract: With the advent of advanced imaging techniques, genotyping, and methods to assess clinical and biological progression, there is a growing need for a unified framework that could exploit information available from multiple sources to aid diagnosis and the identification of early signs of Alzheimer's disease (AD). We propose a modeling strategy using supervised feature extraction to optimally combine high-dimensional imaging modalities with several other low-dimensional disease risk factors. The motivation is to discover new imaging biomarkers and use them in conjunction with other known biomarkers for prognosis of individuals at high risk of developing AD. Our framework also has the ability to assess the relative importance of imaging modalities for predicting AD conversion. We evaluate the proposed methodology on the Alzheimer's Disease Neuroimaging Initiative (ADNI) database to predict conversion of individuals with mild cognitive impairment (MCI) to AD, only using information available at baseline.
+Notes: Singh, Nikhil
+Wang, Angela Y
+Sankaranarayanan, Preethi
+Fletcher, P Thomas
+Joshi, Sarang
+eng
+5R01EB007688/EB/NIBIB NIH HHS/
+P41 RR023953/RR/NCRR NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+Germany
+2013/01/05 06:00
+Med Image Comput Comput Assist Interv. 2012;15(Pt 1):132-40.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/23285544
+Author Address: University of Utah, Salt Lake City, UT, USA. nikhil@cs.utah.edu
+
+

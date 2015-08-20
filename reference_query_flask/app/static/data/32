@@ -1,0 +1,49 @@
+Reference Type:  Journal Article
+Record Number: 2271
+Author: Vounou, M., Nichols, T. E., Montana, G. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2010
+Title: Discovering genetic associations with high-dimensional neuroimaging phenotypes: A sparse reduced-rank regression approach
+Journal: Neuroimage
+Volume: 53
+Issue: 3
+Pages: 1147-59
+Date: Nov 15
+Short Title: Discovering genetic associations with high-dimensional neuroimaging phenotypes: A sparse reduced-rank regression approach
+Alternate Journal: NeuroImage
+ISSN: 1095-9572 (Electronic)
+1053-8119 (Linking)
+DOI: 10.1016/j.neuroimage.2010.07.002
+Accession Number: 20624472
+Keywords: Brain/*anatomy & histology
+Brain Mapping/*methods
+Genome-Wide Association Study
+Genotype
+Humans
+Image Processing, Computer-Assisted
+Magnetic Resonance Imaging
+*Models, Neurological
+*Models, Statistical
+*Phenotype
+Polymorphism, Single Nucleotide
+*Quantitative Trait, Heritable
+ROC Curve
+Regression Analysis
+Abstract: There is growing interest in performing genome-wide searches for associations between genetic variants and brain imaging phenotypes. While much work has focused on single scalar valued summaries of brain phenotype, accounting for the richness of imaging data requires a brain-wide, genome-wide search. In particular, the standard approach based on mass-univariate linear modelling (MULM) does not account for the structured patterns of correlations present in each domain. In this work, we propose sparse reduced rank regression (sRRR), a strategy for multivariate modelling of high-dimensional imaging responses (measurements taken over regions of interest or individual voxels) and genetic covariates (single nucleotide polymorphisms or copy number variations), which enforces sparsity in the regression coefficients. Such sparsity constraints ensure that the model performs simultaneous genotype and phenotype selection. Using simulation procedures that accurately reflect realistic human genetic variation and imaging correlations, we present detailed evaluations of the sRRR method in comparison with the more traditional MULM approach. In all settings considered, sRRR has better power to detect deleterious genetic variants compared to MULM. Important issues concerning model selection and connections to existing latent variable models are also discussed. This work shows that sRRR offers a promising alternative for detecting brain-wide, genome-wide associations.
+Notes: Vounou, Maria
+Nichols, Thomas E
+Montana, Giovanni
+eng
+G0900908/Medical Research Council/United Kingdom
+K01AG030514/AG/NIA NIH HHS/
+P30 AG010129/AG/NIA NIH HHS/
+R01 AG022374-07/AG/NIA NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, P.H.S.
+2010/07/14 06:00
+Neuroimage. 2010 Nov 15;53(3):1147-59. doi: 10.1016/j.neuroimage.2010.07.002. Epub 2010 Jul 17.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/20624472
+Author Address: Statistics Section, Department of Mathematics, Imperial College London, UK.
+
+

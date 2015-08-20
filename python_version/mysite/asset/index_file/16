@@ -1,0 +1,49 @@
+Reference Type:  Journal Article
+Record Number: 2157
+Author: Wolz, R., Aljabar, P., Hajnal, J. V., Lotjonen, J., Rueckert, D. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2012
+Title: Nonlinear dimensionality reduction combining MR imaging with non-imaging information
+Journal: Med Image Anal
+Volume: 16
+Issue: 4
+Pages: 819-30
+Date: May
+Short Title: Nonlinear dimensionality reduction combining MR imaging with non-imaging information
+Alternate Journal: Medical image analysis
+ISSN: 1361-8423 (Electronic)
+1361-8415 (Linking)
+DOI: 10.1016/j.media.2011.12.003
+Accession Number: 22244037
+Keywords: *Algorithms
+Alzheimer Disease/*pathology
+Brain/*pathology
+Humans
+Image Interpretation, Computer-Assisted/*methods
+Magnetic Resonance Imaging/*methods
+Nonlinear Dynamics
+Pattern Recognition, Automated/*methods
+Reproducibility of Results
+Sensitivity and Specificity
+*Subtraction Technique
+Abstract: We propose a framework for the extraction of biomarkers from low-dimensional manifolds representing inter-subject brain variation. Manifold coordinates of each image capture information about structural shape and appearance and, when a phenotype exists, about the subject's clinical state. Our framework incorporates subject meta-information into the manifold learning step. Apart from gender and age, information such as genotype or a derived biomarker is often available in clinical studies and can inform the classification of a query subject. Such information, whether discrete or continuous, is used as an additional input to manifold learning, extending the Laplacian Eigenmap objective function and enriching a similarity measure derived from pairwise image similarities. The biomarkers identified with the proposed method are data-driven in contrast to a priori defined biomarkers derived from, e.g., manual or automated segmentations. They form a unified representation of both the imaging and non-imaging measurements, providing a natural use for data analysis and visualization. We test the method to classify subjects with Alzheimer's Disease (AD), mild cognitive impairment (MCI) and healthy controls enrolled in the ADNI study. Non-imaging metadata used are ApoE genotype, a risk factor associated with AD, and the CSF-concentration of Abeta(1-42), an established biomarker for AD. In addition, we use hippocampal volume as a derived imaging-biomarker to enrich the learned manifold. Our classification results compare favorably to what has been reported in a recent meta-analysis using established neuroimaging methods on the same database.
+Notes: Wolz, Robin
+Aljabar, Paul
+Hajnal, Joseph V
+Lotjonen, Jyrki
+Rueckert, Daniel
+eng
+K01AG030514/AG/NIA NIH HHS/
+MC_U120061309/Medical Research Council/United Kingdom
+MR/K006355/1/Medical Research Council/United Kingdom
+P30 AG010129/AG/NIA NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, P.H.S.
+Netherlands
+2012/01/17 06:00
+Med Image Anal. 2012 May;16(4):819-30. doi: 10.1016/j.media.2011.12.003. Epub 2011 Dec 22.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/22244037
+Author Address: Medical Image Analysis Group, Department of Computing, Imperial College London, 180 Queen's Gate, London SW7 2AZ, UK. r.wolz@imperial.ac.uk
+
+

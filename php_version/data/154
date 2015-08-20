@@ -1,0 +1,42 @@
+Reference Type:  Journal Article
+Record Number: 2192
+Author: Mattila, J., Koikkalainen, J., Virkki, A., van Gils, M., Lotjonen, J. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2012
+Title: Design and application of a generic clinical decision support system for multiscale data
+Journal: IEEE Trans Biomed Eng
+Volume: 59
+Issue: 1
+Pages: 234-40
+Date: Jan
+Short Title: Design and application of a generic clinical decision support system for multiscale data
+Alternate Journal: IEEE transactions on bio-medical engineering
+ISSN: 1558-2531 (Electronic)
+0018-9294 (Linking)
+DOI: 10.1109/TBME.2011.2170986
+Accession Number: 21990325
+Keywords: Alzheimer Disease/*diagnosis
+Data Mining/*methods
+*Decision Support Systems, Clinical
+Diagnosis, Computer-Assisted/*methods
+*Health Records, Personal
+Humans
+*Software
+*Software Design
+Abstract: Medical research and clinical practice are currently being redefined by the constantly increasing amounts of multiscale patient data. New methods are needed to translate them into knowledge that is applicable in healthcare. Multiscale modeling has emerged as a way to describe systems that are the source of experimental data. Usually, a multiscale model is built by combining distinct models of several scales, integrating, e.g., genetic, molecular, structural, and neuropsychological models into a composite representation. We present a novel generic clinical decision support system, which models a patient's disease state statistically from heterogeneous multiscale data. Its goal is to aid in diagnostic work by analyzing all available patient data and highlighting the relevant information to the clinician. The system is evaluated by applying it to several medical datasets and demonstrated by implementing a novel clinical decision support tool for early prediction of Alzheimer's disease.
+Notes: Mattila, Jussi
+Koikkalainen, Juha
+Virkki, Arho
+van Gils, Mark
+Lotjonen, Jyrki
+eng
+R01 AG012101/AG/NIA NIH HHS/
+R01 AG022374/AG/NIA NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+2011/10/13 06:00
+IEEE Trans Biomed Eng. 2012 Jan;59(1):234-40. doi: 10.1109/TBME.2011.2170986. Epub 2011 Oct 10.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/21990325
+Author Address: VTT Technical Research Centre of Finland, Tampere, Finland. jussi.mattila@vtt.fi
+
+

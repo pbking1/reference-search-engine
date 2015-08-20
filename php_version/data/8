@@ -1,0 +1,52 @@
+Reference Type:  Journal Article
+Record Number: 2150
+Author: Ye, J., Farnum, M., Yang, E., Verbeeck, R., Lobanov, V., Raghavan, N., Novak, G., DiBernardo, A., Narayan, V. A. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2012
+Title: Sparse learning and stability selection for predicting MCI to AD conversion using baseline ADNI data
+Journal: BMC Neurol
+Volume: 12
+Pages: 46
+Short Title: Sparse learning and stability selection for predicting MCI to AD conversion using baseline ADNI data
+Alternate Journal: BMC neurology
+ISSN: 1471-2377 (Electronic)
+1471-2377 (Linking)
+DOI: 10.1186/1471-2377-12-46
+PMCID: 3477025
+Accession Number: 22731740
+Keywords: Aged
+Algorithms
+Alzheimer Disease/*diagnosis/*etiology
+Artificial Intelligence
+*Decision Support Systems, Clinical
+Diagnosis, Computer-Assisted/*methods
+Female
+Humans
+Male
+Mild Cognitive Impairment/*complications/*diagnosis
+Proportional Hazards Models
+Reproducibility of Results
+Sensitivity and Specificity
+Abstract: BACKGROUND: Patients with Mild Cognitive Impairment (MCI) are at high risk of progression to Alzheimer's dementia. Identifying MCI individuals with high likelihood of conversion to dementia and the associated biosignatures has recently received increasing attention in AD research. Different biosignatures for AD (neuroimaging, demographic, genetic and cognitive measures) may contain complementary information for diagnosis and prognosis of AD. METHODS: We have conducted a comprehensive study using a large number of samples from the Alzheimer's Disease Neuroimaging Initiative (ADNI) to test the power of integrating various baseline data for predicting the conversion from MCI to probable AD and identifying a small subset of biosignatures for the prediction and assess the relative importance of different modalities in predicting MCI to AD conversion. We have employed sparse logistic regression with stability selection for the integration and selection of potential predictors. Our study differs from many of the other ones in three important respects: (1) we use a large cohort of MCI samples that are unbiased with respect to age or education status between case and controls (2) we integrate and test various types of baseline data available in ADNI including MRI, demographic, genetic and cognitive measures and (3) we apply sparse logistic regression with stability selection to ADNI data for robust feature selection. RESULTS: We have used 319 MCI subjects from ADNI that had MRI measurements at the baseline and passed quality control, including 177 MCI Non-converters and 142 MCI Converters. Conversion was considered over the course of a 4-year follow-up period. A combination of 15 features (predictors) including those from MRI scans, APOE genotyping, and cognitive measures achieves the best prediction with an AUC score of 0.8587. CONCLUSIONS: Our results demonstrate the power of integrating various baseline data for prediction of the conversion from MCI to probable AD. Our results also demonstrate the effectiveness of stability selection for feature selection in the context of sparse logistic regression.
+Notes: Ye, Jieping
+Farnum, Michael
+Yang, Eric
+Verbeeck, Rudi
+Lobanov, Victor
+Raghavan, Nandini
+Novak, Gerald
+DiBernardo, Allitia
+Narayan, Vaibhav A
+eng
+K01 AG030514/AG/NIA NIH HHS/
+P30 AG010129/AG/NIA NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+Canadian Institutes of Health Research/Canada
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+England
+2012/06/27 06:00
+BMC Neurol. 2012 Jun 25;12:46. doi: 10.1186/1471-2377-12-46.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/22731740
+Author Address: Center for Evolutionary Medicine and Informatics, The Biodesign Institute, Arizona, State University, Tempe, AZ, USA. jieping.ye@asu.edu
+
+

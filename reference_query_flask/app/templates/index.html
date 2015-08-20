@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+	<form action="" method="post" name="search">
+		{{ form.hidden_tag() }}
+		<p>
+		<h3>Please enter the keyword: </h3><br> {{ form.openid(size=80) }} <br>
+		</p>
+		<p><input type="submit" class="btn btn-info" value="Search"></p>
+		<hr>
+		<p>Do you want to index the data?</p>
+		<input type="submit" class="btn btn-info" name="index_data" value="YES">
+	</form>
+{% endblock %}

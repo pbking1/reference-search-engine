@@ -1,0 +1,40 @@
+Reference Type:  Journal Article
+Record Number: 2168
+Author: Silver, M., Montana, G. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2012
+Title: Fast identification of biological pathways associated with a quantitative trait using group lasso with overlaps
+Journal: Stat Appl Genet Mol Biol
+Volume: 11
+Issue: 1
+Pages: Article 7
+Short Title: Fast identification of biological pathways associated with a quantitative trait using group lasso with overlaps
+Alternate Journal: Statistical applications in genetics and molecular biology
+ISSN: 1544-6115 (Electronic)
+1544-6115 (Linking)
+DOI: 10.2202/1544-6115.1755
+PMCID: 3491888
+Accession Number: 22499682
+Keywords: Alzheimer Disease/genetics
+Humans
+Models, Genetic
+*Polymorphism, Single Nucleotide
+*Quantitative Trait Loci
+Regression Analysis
+Abstract: Where causal SNPs (single nucleotide polymorphisms) tend to accumulate within biological pathways, the incorporation of prior pathways information into a statistical model is expected to increase the power to detect true associations in a genetic association study. Most existing pathways-based methods rely on marginal SNP statistics and do not fully exploit the dependence patterns among SNPs within pathways.We use a sparse regression model, with SNPs grouped into pathways, to identify causal pathways associated with a quantitative trait. Notable features of our "pathways group lasso with adaptive weights" (P-GLAW) algorithm include the incorporation of all pathways in a single regression model, an adaptive pathway weighting procedure that accounts for factors biasing pathway selection, and the use of a bootstrap sampling procedure for the ranking of important pathways. P-GLAW takes account of the presence of overlapping pathways and uses a novel combination of techniques to optimise model estimation, making it fast to run, even on whole genome datasets.In a comparison study with an alternative pathways method based on univariate SNP statistics, our method demonstrates high sensitivity and specificity for the detection of important pathways, showing the greatest relative gains in performance where marginal SNP effect sizes are small.
+Notes: Silver, Matt
+Montana, Giovanni
+eng
+086766/Wellcome Trust/United Kingdom
+086766/Z/08/Z/Wellcome Trust/United Kingdom
+K01 AG030514/AG/NIA NIH HHS/
+P30 AG010129/AG/NIA NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+UL1 RR033173/RR/NCRR NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+2012/04/14 06:00
+Stat Appl Genet Mol Biol. 2012 Jan 6;11(1):Article 7. doi: 10.2202/1544-6115.1755.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/22499682
+Author Address: Imperial College London, UK.
+
+

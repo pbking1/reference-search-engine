@@ -1,0 +1,55 @@
+Reference Type:  Journal Article
+Record Number: 2060
+Author: Dinov, I. D., Petrosyan, P., Liu, Z., Eggert, P., Zamanyan, A., Torri, F., Macciardi, F., Hobel, S., Moon, S. W., Sung, Y. H., Jiang, Z., Labus, J., Kurth, F., Ashe-McNalley, C., Mayer, E., Vespa, P. M., Van Horn, J. D., Toga, A. W. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2014
+Title: The perfect neuroimaging-genetics-computation storm: collision of petabytes of data, millions of hardware devices and thousands of software tools
+Journal: Brain Imaging Behav
+Volume: 8
+Issue: 2
+Pages: 311-22
+Date: Jun
+Short Title: The perfect neuroimaging-genetics-computation storm: collision of petabytes of data, millions of hardware devices and thousands of software tools
+Alternate Journal: Brain imaging and behavior
+ISSN: 1931-7565 (Electronic)
+1931-7557 (Linking)
+DOI: 10.1007/s11682-013-9248-x
+PMCID: 3933453
+Accession Number: 23975276
+Abstract: The volume, diversity and velocity of biomedical data are exponentially increasing providing petabytes of new neuroimaging and genetics data every year. At the same time, tens-of-thousands of computational algorithms are developed and reported in the literature along with thousands of software tools and services. Users demand intuitive, quick and platform-agnostic access to data, software tools, and infrastructure from millions of hardware devices. This explosion of information, scientific techniques, computational models, and technological advances leads to enormous challenges in data analysis, evidence-based biomedical inference and reproducibility of findings. The Pipeline workflow environment provides a crowd-based distributed solution for consistent management of these heterogeneous resources. The Pipeline allows multiple (local) clients and (remote) servers to connect, exchange protocols, control the execution, monitor the states of different tools or hardware, and share complete protocols as portable XML workflows. In this paper, we demonstrate several advanced computational neuroimaging and genetics case-studies, and end-to-end pipeline solutions. These are implemented as graphical workflow protocols in the context of analyzing imaging (sMRI, fMRI, DTI), phenotypic (demographic, clinical), and genetic (SNP) data.
+Notes: Dinov, Ivo D
+Petrosyan, Petros
+Liu, Zhizhong
+Eggert, Paul
+Zamanyan, Alen
+Torri, Federica
+Macciardi, Fabio
+Hobel, Sam
+Moon, Seok Woo
+Sung, Young Hee
+Jiang, Zhiguo
+Labus, Jennifer
+Kurth, Florian
+Ashe-McNalley, Cody
+Mayer, Emeran
+Vespa, Paul M
+Van Horn, John D
+Toga, Arthur W
+eng
+LM05639/LM/NLM NIH HHS/
+P 50 AG16570/AG/NIA NIH HHS/
+P20 MH065166/MH/NIMH NIH HHS/
+P41 EB015922/EB/NIBIB NIH HHS/
+P41EB015922/EB/NIBIB NIH HHS/
+R01 MH071940/MH/NIMH NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+U24 GM104203/GM/NIGMS NIH HHS/
+U24-RR021992/RR/NCRR NIH HHS/
+U24-RR025736/RR/NCRR NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+2013/08/27 06:00
+Brain Imaging Behav. 2014 Jun;8(2):311-22. doi: 10.1007/s11682-013-9248-x.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/23975276
+Author Address: Laboratory of Neuro Imaging (LONI), David Geffen School of Medicine at UCLA, University of California, Los Angeles, 635 S. Charles Young Drive, Suite 225, Los Angeles, CA, 90095-7334, USA, dinov@ucla.edu.
+
+

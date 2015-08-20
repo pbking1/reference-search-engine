@@ -1,0 +1,64 @@
+Reference Type:  Journal Article
+Record Number: 2269
+Author: Wan, J., Kim, S., Inlow, M., Nho, K., Swaminathan, S., Risacheri, S. L., Fang, S., Weiner, M. W., Beg, M. F., Wang, L., Saykin, A. J., Shen, L. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2011
+Title: Hippocampal surface mapping of genetic risk factors in AD via sparse learning models
+Journal: Med Image Comput Comput Assist Interv
+Volume: 14
+Issue: Pt 2
+Pages: 376-83
+Short Title: Hippocampal surface mapping of genetic risk factors in AD via sparse learning models
+Alternate Journal: Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention
+PMCID: 3196668
+Accession Number: 21995051
+Keywords: Aged
+Alzheimer Disease/*diagnosis/*genetics/*pathology
+Cohort Studies
+Female
+Genetic Predisposition to Disease
+Hippocampus/*pathology
+Humans
+*Learning
+Magnetic Resonance Imaging/methods
+Male
+Middle Aged
+Models, Genetic
+Models, Neurological
+Polymorphism, Single Nucleotide
+Regression Analysis
+Risk Factors
+Abstract: Genetic mapping of hippocampal shape, an under-explored area, has strong potential as a neurodegeneration biomarker for AD and MCI. This study investigates the genetic effects of top candidate single nucleotide polymorphisms (SNPs) on hippocampal shape features as quantitative traits (QTs) in a large cohort. FS+LDDMM was used to segment hippocampal surfaces from MRI scans and shape features were extracted after surface registration. Elastic net (EN) and sparse canonical correlation analysis (SCCA) were proposed to examine SNP-QT associations, and compared with multiple regression (MR). Although similar in power, EN yielded substantially fewer predictors than MR. Detailed surface mapping of global and localized genetic effects were identified by MR and EN to reveal multi-SNP-single-QT relationships, and by SCCA to discover multi-SNP-multi-QT associations. Shape analysis identified stronger SNP-QT correlations than volume analysis. Sparse multivariate models have greater power to reveal complex SNP-QT relationships. Genetic analysis of quantitative shape features has considerable potential for enhancing mechanistic understanding of complex disorders like AD.
+Notes: Wan, Jing
+Kim, Sungeun
+Inlow, Mark
+Nho, Kwangsik
+Swaminathan, Shanker
+Risacheri, Shannon L
+Fang, Shiaofen
+Weiner, Michael W
+Beg, M Faisal
+Wang, Lei
+Saykin, Andrew J
+Shen, Li
+eng
+1RC 2AG036535/RC/CCR NIH HHS/
+P30 AG010133-18S1/AG/NIA NIH HHS/
+P30 AG10133/AG/NIA NIH HHS/
+R01 AG019771/AG/NIA NIH HHS/
+R01 AG019771-10/AG/NIA NIH HHS/
+R01 AG19771/AG/NIA NIH HHS/
+R03 EB008674/EB/NIBIB NIH HHS/
+R03 EB008674-01/EB/NIBIB NIH HHS/
+RC2 AG036535-01/AG/NIA NIH HHS/
+RR025761/RR/NCRR NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+U01 AG024904-01/AG/NIA NIH HHS/
+UL1 RR025761-01/RR/NCRR NIH HHS/
+Research Support, N.I.H., Extramural
+Germany
+2011/10/15 06:00
+Med Image Comput Comput Assist Interv. 2011;14(Pt 2):376-83.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/21995051
+Author Address: Radiology and Imaging Sciences, Indiana University School of Medicine, IN, USA. wanjing@iupui.edu
+
+

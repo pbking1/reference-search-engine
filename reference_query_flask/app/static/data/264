@@ -1,0 +1,47 @@
+Reference Type:  Journal Article
+Record Number: 2130
+Author: Gray, K. R., Aljabar, P., Heckemann, R. A., Hammers, A., Rueckert, D. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2013
+Title: Random forest-based similarity measures for multi-modal classification of Alzheimer's disease
+Journal: Neuroimage
+Volume: 65
+Pages: 167-75
+Date: Jan 15
+Short Title: Random forest-based similarity measures for multi-modal classification of Alzheimer's disease
+Alternate Journal: NeuroImage
+ISSN: 1095-9572 (Electronic)
+1053-8119 (Linking)
+DOI: 10.1016/j.neuroimage.2012.09.065
+PMCID: 3516432
+Accession Number: 23041336
+Keywords: Aged
+Alzheimer Disease/*classification/*diagnosis/physiopathology
+*Artificial Intelligence
+Biological Markers/analysis
+Female
+Humans
+Magnetic Resonance Imaging
+Male
+*Models, Theoretical
+Positron-Emission Tomography
+Abstract: Neurodegenerative disorders, such as Alzheimer's disease, are associated with changes in multiple neuroimaging and biological measures. These may provide complementary information for diagnosis and prognosis. We present a multi-modality classification framework in which manifolds are constructed based on pairwise similarity measures derived from random forest classifiers. Similarities from multiple modalities are combined to generate an embedding that simultaneously encodes information about all the available features. Multi-modality classification is then performed using coordinates from this joint embedding. We evaluate the proposed framework by application to neuroimaging and biological data from the Alzheimer's Disease Neuroimaging Initiative (ADNI). Features include regional MRI volumes, voxel-based FDG-PET signal intensities, CSF biomarker measures, and categorical genetic information. Classification based on the joint embedding constructed using information from all four modalities out-performs the classification based on any individual modality for comparisons between Alzheimer's disease patients and healthy controls, as well as between mild cognitive impairment patients and healthy controls. Based on the joint embedding, we achieve classification accuracies of 89% between Alzheimer's disease patients and healthy controls, and 75% between mild cognitive impairment patients and healthy controls. These results are comparable with those reported in other recent studies using multi-kernel learning. Random forests provide consistent pairwise similarity measures for multiple modalities, thus facilitating the combination of different types of feature data. We demonstrate this by application to data in which the number of features differs by several orders of magnitude between modalities. Random forest classifiers extend naturally to multi-class problems, and the framework described here could be applied to distinguish between multiple patient groups in the future.
+Notes: Gray, Katherine R
+Aljabar, Paul
+Heckemann, Rolf A
+Hammers, Alexander
+Rueckert, Daniel
+eng
+G108/585/Medical Research Council/United Kingdom
+K01 AG030514/AG/NIA NIH HHS/
+MC_U120085812/Medical Research Council/United Kingdom
+P30 AG010129/AG/NIA NIH HHS/
+P50 AG008702/AG/NIA NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+2012/10/09 06:00
+Neuroimage. 2013 Jan 15;65:167-75. doi: 10.1016/j.neuroimage.2012.09.065. Epub 2012 Oct 4.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/23041336
+Author Address: Biomedical Image Analysis Group, Department of Computing, Imperial College London, UK. krg03@imperial.ac.uk
+
+

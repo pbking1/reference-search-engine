@@ -1,0 +1,13 @@
+Reference Type:  Journal Article
+Record Number: 350
+Author: Jahanshad, Neda, Nir, Talia, Jr, Clifford R. Jack, Weiner, Michael W., Toga, Arthur W. and Thompson, Paul M.
+Year: 2012
+Title: Boosting power to associate brain connectivity measures and dementia severity using Seemingly Unrelated Regression
+Journal: MICCAI NIBAD
+Pages: 95-104
+Start Page: 95
+Date: Oct 1-4 2012.
+Short Title: Boosting power to associate brain connectivity measures and dementia severity using Seemingly Unrelated Regression
+Abstract: Structural brain connectivity and organization is altered in Alzheimer’s disease (AD) as axons degenerate in a stereotypical pattern. Here we examined the brain’s fiber networks reconstructed from DTI data collected as part of the Alzheimer’s Disease Neuroimaging Initiative (ADNI). Diagnosis of AD is associated, to some extent, with a person’s age, educational level, and ApoE genotype. However even the strongest associations are hard to detect in small sample sizes, so efforts to boost power are of great interest. Here, we used a seemingly unrelated regression (SUR) approach to combine two underpowered regression models to boost power in limited sample sizes. In the available sample of 111, connectivity was related to MMSE and CDR. Limiting our analysis to 65% of the total subjects, these clinical scores no longer showed significant associations. Power was boosted in the same subsample when incorporating the genotype and education relation to AD in a SUR model.
+
+

@@ -1,0 +1,55 @@
+Reference Type:  Journal Article
+Record Number: 2233
+Author: Wolz, R., Heckemann, R. A., Aljabar, P., Hajnal, J. V., Hammers, A., Lotjonen, J., Rueckert, D. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2010
+Title: Measurement of hippocampal atrophy using 4D graph-cut segmentation: application to ADNI
+Journal: Neuroimage
+Volume: 52
+Issue: 1
+Pages: 109-18
+Date: Aug 1
+Short Title: Measurement of hippocampal atrophy using 4D graph-cut segmentation: application to ADNI
+Alternate Journal: NeuroImage
+ISSN: 1095-9572 (Electronic)
+1053-8119 (Linking)
+DOI: 10.1016/j.neuroimage.2010.04.006
+Accession Number: 20382238
+Keywords: Aged
+Aging/*pathology
+Algorithms
+Alzheimer Disease/diagnosis/genetics/*pathology
+Apolipoproteins E/genetics
+Atlases as Topic
+Atrophy
+Automation
+Cognition Disorders/diagnosis/genetics/*pathology
+Diagnosis, Differential
+Female
+Follow-Up Studies
+Hippocampus/*pathology
+Humans
+Image Processing, Computer-Assisted/*methods
+Longitudinal Studies
+Magnetic Resonance Imaging/*methods
+Male
+Organ Size
+Reproducibility of Results
+Sensitivity and Specificity
+Abstract: We propose a new method of measuring atrophy of brain structures by simultaneously segmenting longitudinal magnetic resonance (MR) images. In this approach a 4D graph is used to represent the longitudinal data: edges are weighted based on spatial and intensity priors and connect spatially and temporally neighboring voxels represented by vertices in the graph. Solving the min-cut/max-flow problem on this graph yields the segmentation for all timepoints in a single step. By segmenting all timepoints simultaneously, a consistent and atrophy-sensitive segmentation is obtained. The application to hippocampal atrophy measurement in 568 image pairs (Baseline and Month 12 follow-up) as well as 362 image triplets (Baseline, Month 12, and Month 24) from the Alzheimer's Disease Neuroimaging Initiative (ADNI) confirms previous findings for atrophy in Alzheimer's disease (AD) and healthy aging. Highly significant correlations between hippocampal atrophy and clinical variables (Mini Mental State Examination, MMSE and Clinical Dementia Rating, CDR) were found and atrophy rates differ significantly according to subjects' ApoE genotype. Based on one year atrophy rates, a correct classification rate of 82% between AD and control subjects is achieved. Subjects that converted from Mild Cognitive Impairment (MCI) to AD after the period for which atrophy was measured (i.e., after the first 12 months) and subjects for whom conversion is yet to be identified were discriminated with a rate of 64%, a promising result with a view to clinical application. Power analysis shows that 67 and 206 subjects are needed for the AD and MCI groups respectively to detect a 25% change in volume loss with 80% power and 5% significance.
+Notes: Wolz, Robin
+Heckemann, Rolf A
+Aljabar, Paul
+Hajnal, Joseph V
+Hammers, Alexander
+Lotjonen, Jyrki
+Rueckert, Daniel
+eng
+G108/585/Medical Research Council/United Kingdom
+MC_U120061309/Medical Research Council/United Kingdom
+Research Support, Non-U.S. Gov't
+2010/04/13 06:00
+Neuroimage. 2010 Aug 1;52(1):109-18. doi: 10.1016/j.neuroimage.2010.04.006. Epub 2010 Apr 9.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/20382238
+Author Address: Department of Computing, Imperial College London, London, UK. r.wolz@imperial.ac.uk
+
+

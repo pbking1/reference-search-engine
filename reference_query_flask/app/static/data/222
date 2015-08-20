@@ -1,0 +1,47 @@
+Reference Type:  Journal Article
+Record Number: 2136
+Author: Huang, S., Li, J., Ye, J., Fleisher, A., Chen, K., Wu, T., Reiman, E. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2013
+Title: A sparse structure learning algorithm for Gaussian Bayesian Network identification from high-dimensional data
+Journal: IEEE Trans Pattern Anal Mach Intell
+Volume: 35
+Issue: 6
+Pages: 1328-42
+Date: Jun
+Short Title: A sparse structure learning algorithm for Gaussian Bayesian Network identification from high-dimensional data
+Alternate Journal: IEEE transactions on pattern analysis and machine intelligence
+ISSN: 1939-3539 (Electronic)
+0098-5589 (Linking)
+DOI: 10.1109/TPAMI.2012.129
+PMCID: 3924722
+Accession Number: 22665720
+Keywords: *Algorithms
+Alzheimer Disease/genetics
+Artificial Intelligence
+Bayes Theorem
+Brain/metabolism
+Gene Expression Profiling
+Humans
+*Normal Distribution
+Abstract: Structure learning of Bayesian Networks (BNs) is an important topic in machine learning. Driven by modern applications in genetics and brain sciences, accurate and efficient learning of large-scale BN structures from high-dimensional data becomes a challenging problem. To tackle this challenge, we propose a Sparse Bayesian Network (SBN) structure learning algorithm that employs a novel formulation involving one L1-norm penalty term to impose sparsity and another penalty term to ensure that the learned BN is a Directed Acyclic Graph--a required property of BNs. Through both theoretical analysis and extensive experiments on 11 moderate and large benchmark networks with various sample sizes, we show that SBN leads to improved learning accuracy, scalability, and efficiency as compared with 10 existing popular BN learning algorithms. We apply SBN to a real-world application of brain connectivity modeling for Alzheimer's disease (AD) and reveal findings that could lead to advancements in AD research.
+Notes: Huang, Shuai
+Li, Jing
+Ye, Jieping
+Fleisher, Adam
+Chen, Kewei
+Wu, Teresa
+Reiman, Eric
+eng
+1R0IGM096194-01/PHS HHS/
+R01 GM096194/GM/NIGMS NIH HHS/
+U01AG024904/AG/NIA NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+Research Support, U.S. Gov't, P.H.S.
+2012/06/06 06:00
+IEEE Trans Pattern Anal Mach Intell. 2013 Jun;35(6):1328-42.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/22665720
+Author Address: School of Computing, Informatics, and Decision Systems Engineering, Arizona State University, PO Box 878809, Tempe, AZ 85287-8809, USA.
+
+

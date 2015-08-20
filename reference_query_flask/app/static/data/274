@@ -1,0 +1,83 @@
+Reference Type:  Journal Article
+Record Number: 1089
+Author: Escudero, J., Ifeachor, E., Zajicek, J. P., Green, C., Shearer, J. and Pearson, S.
+Year: 2013
+Title: Machine learning-based method for personalized and cost-effective detection of alzheimer's disease
+Journal: IEEE Transactions on Biomedical Engineering
+Volume: 60
+Issue: 1
+Pages: 164-168
+Short Title: Machine learning-based method for personalized and cost-effective detection of alzheimer's disease
+ISSN: 00189294 (ISSN)
+DOI: 10.1109/TBME.2012.2212278
+Keywords: Alzheimer's disease (AD)
+classification
+cost
+machine learning
+mild cognitive impairment (MCI)
+personalization
+Alzheimer's disease
+Classifier models
+Clinical settings
+Cognitive impairment
+Disease process
+Learning approach
+Learning-based methods
+Locally weighted learning
+Personalizations
+Classification (of information)
+Cost effectiveness
+Costs
+Learning systems
+Diagnosis
+amyloid beta protein[1-40]
+amyloid beta protein[1-42]
+apolipoprotein E4
+homocysteine
+tau protein
+Alzheimer disease
+article
+cerebrospinal fluid analysis
+computer assisted diagnosis
+controlled study
+cost effectiveness analysis
+follow up
+functional neuroimaging
+human
+major clinical study
+mild cognitive impairment
+nuclear magnetic resonance imaging
+personalized medicine
+positron emission tomography
+protein blood level
+protein phosphorylation
+sensitivity and specificity
+Artificial Intelligence
+Biological Markers
+Cost-Benefit Analysis
+Databases, Factual
+Disease Progression
+Female
+Humans
+Individualized Medicine
+Magnetic Resonance Imaging
+Male
+Reproducibility of Results
+Abstract: Diagnosis of Alzheimer's disease (AD) is often difficult, especially early in the disease process at the stage of mild cognitive impairment (MCI). Yet, it is at this stage that treatment is most likely to be effective, so there would be great advantages in improving the diagnosis process. We describe and test a machine learning approach for personalized and cost-effective diagnosis of AD. It uses locally weighted learning to tailor a classifier model to each patient and computes the sequence of biomarkers most informative or cost-effective to diagnose patients. Using ADNI data, we classified AD versus controls and MCI patients who progressed to AD within a year, against those who did not. The approach performed similarly to considering all data at once, while significantly reducing the number (and cost) of the biomarkers needed to achieve a confident diagnosis for each patient. Thus, it may contribute to a personalized and effective detection of AD, and may prove useful in clinical settings. © 1964-2012 IEEE.
+Notes: Cited By (since 1996):2
+Export Date: 28 May 2014
+Source: Scopus
+Art. No.: 6263281
+CODEN: IEBEA
+PubMed ID: 22893371
+Language of Original Document: English
+Correspondence Address: Escudero, J.; Signal Processing and Multimedia Communications Research Group, School of Computing and Mathematics, Plymouth University, Plymouth, PL4 8AA, United Kingdom; email: javier.escudero@ieee.org
+Chemicals/CAS: homocysteine, 454-28-4, 6027-13-0; Biological Markers
+References: Witten, I.H., Frank, E., Hall, M.A., (2011) Data Mining: Practical Machine Learning Tools and Techniques, , 3rd ed. New York: Elsevier; Lemm, S., Blankertz, B., Dickhaus, T., M̈uller, K.-R., Introduction to machine learning for brain imaging (2011) NeuroImage, 56 (2), pp. 387-399. , May; Ye, J., Wu, T., Li, J., Chen, K., Machine learning approaches for the neuroimaging study of alzheimer's disease (2011) Computer, 44 (4), pp. 99-101. , Apr; Chi, C.-L., Street, W.N., Katz, D.A., A decision support system for cost-effective diagnosis (2010) Artif. Intell. Med, 50 (3), pp. 149-161. , Nov; Hinrichs, C., Singh, V., Xu, G., Johnson, S.C., Predictive markers for AD in a multi-modality framework: An analysis of MCI progression in the ADNI population (2011) NeuroImage, 55 (2), pp. 574-589. , Mar; Zhang, D., Wang, Y., Zhou, L., Yuan, H., Shen, D., Multimodal classification of Alzheimer's disease and mild cognitive impairment (2011) NeuroImage, 55 (3), pp. 856-867. , Apr; Cui, Y., Liu, B., Luo, S., Zhen, X., Fan, M., Liu, T., Zhu, W., Jin, J.S., Identification of conversion from mild cognitive impairment to Alzheimer's disease using multivariate predictors (2011) PLOS ONE, 6 (7), pp. e21896. , the Alzheimer's DiseaseNeuroimaging Initiative Jul; Holtzman, D.M., Morris, J.C., Goate, A.M., Alzheimer's disease: The challenge of the second century (2011) Sci. Transl. Med, 3 (77), pp. 77sr1. , Apr; Blennow, K., De Leon, M.J., Zetterberg, H., Alzheimer's disease (2006) Lancet, 368 (9533), pp. 387-403. , DOI 10.1016/S0140-6736(06)69113-7, PII S0140673606691137; Holland, D., Brewer, J.B., Hagler, D.J., Fennema-Notestine, C., Dale, A.M., Subregional neuroanatomical change as a biomarker for Alzheimer's disease (2009) Proc. Nat. Acad. Sci. U. S. A, 106 (49), pp. 20954-20959. , the Alzheimer's Disease Neuroimaging Initiative Dec; Landau, S.M., Harvey, D., Madison, C.M., Koeppe, R.A., Reiman, E.M., Foster, N.L., Weiner, M.W., Jagust, W.J., Associations between cognitive, functional, and FDG-PETmeasures of decline inADand MCI (2011) Neurobiol. Aging, 32 (7), pp. 1207-1218. , Jul; Trojanowski, J.Q., Vandeerstichele, H., Korecka, M., Clark, C.M., Aisen, P.S., Petersen, R.C., Blennow, K., Shaw, L.M., Update on the biomarker core of the Alzheimer's Disease Neuroimaging Initiative subjects (2010) Alzheimers Dement, 6 (3), pp. 230-238. , May; Jack, C.R., Albert, M.S., Knopman, D.S., McKhann, G.M., Sperling, R.A., Carrillo, M.C., Thies, B., Phelps, C.H., Introduction to the recommendations from the National Institute on Aging-Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease (2011) Alzheimers Dement, 7 (3), pp. 257-262. , May; (2011) 2010-11 Reference Costs Publication, , http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/ PublicationsPolicyAndGuidance/DH_131140, D. of Health Nov. 17; Atkeson, C.G., Moore, A.W., Schaal, S., Locally Weighted Learning (1997) Artificial Intelligence Review, 11 (1-5), pp. 11-73
+URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84871813342&partnerID=40&md5=97c0ae34330d43bccc7733392f1977fb
+Author Address: Signal Processing and Multimedia Communications Research Group, School of Computing and Mathematics, Plymouth University, Plymouth, PL4 8AA, United Kingdom
+Clinical Neurology Research Group, Peninsula College of Medicine and Dentistry, Plymouth University, Plymouth, PL6 8BU, United Kingdom
+Health Economics Group, Peninsula College of Medicine and Dentistry, University of Exeter, Exeter, EX4 4QJ, United Kingdom
+Devon Partnership NHS Trust, Ivybridge, PL21 9QP, United Kingdom
+
+

@@ -1,0 +1,46 @@
+Reference Type:  Journal Article
+Record Number: 2158
+Author: Vounou, M., Janousova, E., Wolz, R., Stein, J. L., Thompson, P. M., Rueckert, D., Montana, G. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2012
+Title: Sparse reduced-rank regression detects genetic associations with voxel-wise longitudinal phenotypes in Alzheimer's disease
+Journal: Neuroimage
+Volume: 60
+Issue: 1
+Pages: 700-16
+Date: Mar
+Short Title: Sparse reduced-rank regression detects genetic associations with voxel-wise longitudinal phenotypes in Alzheimer's disease
+Alternate Journal: NeuroImage
+ISSN: 1095-9572 (Electronic)
+1053-8119 (Linking)
+DOI: 10.1016/j.neuroimage.2011.12.029
+PMCID: 3551466
+Accession Number: 22209813
+Keywords: Algorithms
+Alzheimer Disease/*genetics/*pathology
+Female
+*Genome-Wide Association Study
+Humans
+Image Processing, Computer-Assisted
+Male
+*Neuroimaging
+Phenotype
+Abstract: Scanning the entire genome in search of variants related to imaging phenotypes holds great promise in elucidating the genetic etiology of neurodegenerative disorders. Here we discuss the application of a penalized multivariate model, sparse reduced-rank regression (sRRR), for the genome-wide detection of markers associated with voxel-wise longitudinal changes in the brain caused by Alzheimer's disease (AD). Using a sample from the Alzheimer's Disease Neuroimaging Initiative database, we performed three separate studies that each compared two groups of individuals to identify genes associated with disease development and progression. For each comparison we took a two-step approach: initially, using penalized linear discriminant analysis, we identified voxels that provide an imaging signature of the disease with high classification accuracy; then we used this multivariate biomarker as a phenotype in a genome-wide association study, carried out using sRRR. The genetic markers were ranked in order of importance of association to the phenotypes using a data re-sampling approach. Our findings confirmed the key role of the APOE and TOMM40 genes but also highlighted some novel potential associations with AD.
+Notes: Vounou, Maria
+Janousova, Eva
+Wolz, Robin
+Stein, Jason L
+Thompson, Paul M
+Rueckert, Daniel
+Montana, Giovanni
+eng
+R01 AG040060/AG/NIA NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, P.H.S.
+2012/01/03 06:00
+Neuroimage. 2012 Mar;60(1):700-16. doi: 10.1016/j.neuroimage.2011.12.029. Epub 2011 Dec 22.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/22209813
+Author Address: Statistics Section, Department of Mathematics, Imperial College London, UK.
+
+

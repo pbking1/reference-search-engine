@@ -1,0 +1,40 @@
+Reference Type:  Journal Article
+Record Number: 2044
+Author: Guillaume, B., Hua, X., Thompson, P. M., Waldorp, L., Nichols, T. E. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2014
+Title: Fast and accurate modelling of longitudinal and repeated measures neuroimaging data
+Journal: Neuroimage
+Volume: 94
+Pages: 287-302
+Date: Jul 1
+Short Title: Fast and accurate modelling of longitudinal and repeated measures neuroimaging data
+Alternate Journal: NeuroImage
+ISSN: 1095-9572 (Electronic)
+1053-8119 (Linking)
+DOI: 10.1016/j.neuroimage.2014.03.029
+PMCID: 4073654
+Accession Number: 24650594
+Abstract: Despite the growing importance of longitudinal data in neuroimaging, the standard analysis methods make restrictive or unrealistic assumptions (e.g., assumption of Compound Symmetry--the state of all equal variances and equal correlations--or spatially homogeneous longitudinal correlations). While some new methods have been proposed to more accurately account for such data, these methods are based on iterative algorithms that are slow and failure-prone. In this article, we propose the use of the Sandwich Estimator method which first estimates the parameters of interest with a simple Ordinary Least Square model and second estimates variances/covariances with the "so-called" Sandwich Estimator (SwE) which accounts for the within-subject correlation existing in longitudinal data. Here, we introduce the SwE method in its classic form, and we review and propose several adjustments to improve its behaviour, specifically in small samples. We use intensive Monte Carlo simulations to compare all considered adjustments and isolate the best combination for neuroimaging data. We also compare the SwE method to other popular methods and demonstrate its strengths and weaknesses. Finally, we analyse a highly unbalanced longitudinal dataset from the Alzheimer's Disease Neuroimaging Initiative and demonstrate the flexibility of the SwE method to fit within- and between-subject effects in a single model. Software implementing this SwE method has been made freely available at http://warwick.ac.uk/tenichols/SwE.
+Notes: Guillaume, Bryan
+Hua, Xue
+Thompson, Paul M
+Waldorp, Lourens
+Nichols, Thomas E
+eng
+100309/Wellcome Trust/United Kingdom
+R01 NS075066-01A/NS/NINDS NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+Canadian Institutes of Health Research/Canada
+Wellcome Trust/United Kingdom
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+2014/03/22 06:00
+Neuroimage. 2014 Jul 1;94:287-302. doi: 10.1016/j.neuroimage.2014.03.029. Epub 2014 Mar 18.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/24650594
+Author Address: Cyclotron Research Centre, University of Liege, 4000 Liege, Belgium; Department of Statistics, University of Warwick, Coventry, UK; Global Imaging Unit, GlaxoSmithKline, Stevenage, UK.
+Imaging Genetics Center, Laboratory of Neuro Imaging, Dept. of Neurology & Psychiatry, UCLA School of Medicine, Los Angeles, CA 90095, USA.
+Department of Psychological Methods, University of Amsterdam, Amsterdam, The Netherlands.
+Department of Statistics, University of Warwick, Coventry, UK; Warwick Manufacturing Group, University of Warwick, Coventry, UK; Oxford Centre for Functional MRI of the Brain, University of Oxford, Oxford, UK.
+
+

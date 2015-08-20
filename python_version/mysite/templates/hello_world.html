@@ -1,0 +1,28 @@
+<!-- hello_world.html -->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>search engine</title>
+        <style>
+            body {
+            }
+            em {
+                color: Black;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Top 10 Result</h1>     
+	<em>
+		{% for i in result %}
+		<div>
+			<a href="{{MEDIA_URL}}/index_file/{{ i.doc_id }}">The {{ i.result_id }} th record  </a>
+		<!--a>Total result number is {{ i.total_result_number }}</a><p-->
+		<a>Match rate is {{ i.match_rate }}%</a><p>
+		<a>The Abstract is {{ i.content }}</a>
+		</div><br />
+		{% endfor %}
+	</em>
+    </body>
+</html>

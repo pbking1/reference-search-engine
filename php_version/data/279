@@ -1,0 +1,34 @@
+Reference Type:  Journal Article
+Record Number: 2054
+Author: Dubey, R., Zhou, J., Wang, Y., Thompson, P. M., Ye, J. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2014
+Title: Analysis of sampling techniques for imbalanced data: An n = 648 ADNI study
+Journal: Neuroimage
+Volume: 87
+Pages: 220-41
+Date: Feb 15
+Short Title: Analysis of sampling techniques for imbalanced data: An n = 648 ADNI study
+Alternate Journal: NeuroImage
+ISSN: 1095-9572 (Electronic)
+1053-8119 (Linking)
+DOI: 10.1016/j.neuroimage.2013.10.005
+PMCID: 3946903
+Accession Number: 24176869
+Abstract: Many neuroimaging applications deal with imbalanced imaging data. For example, in Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset, the mild cognitive impairment (MCI) cases eligible for the study are nearly two times the Alzheimer's disease (AD) patients for structural magnetic resonance imaging (MRI) modality and six times the control cases for proteomics modality. Constructing an accurate classifier from imbalanced data is a challenging task. Traditional classifiers that aim to maximize the overall prediction accuracy tend to classify all data into the majority class. In this paper, we study an ensemble system of feature selection and data sampling for the class imbalance problem. We systematically analyze various sampling techniques by examining the efficacy of different rates and types of undersampling, oversampling, and a combination of over and undersampling approaches. We thoroughly examine six widely used feature selection algorithms to identify significant biomarkers and thereby reduce the complexity of the data. The efficacy of the ensemble techniques is evaluated using two different classifiers including Random Forest and Support Vector Machines based on classification accuracy, area under the receiver operating characteristic curve (AUC), sensitivity, and specificity measures. Our extensive experimental results show that for various problem settings in ADNI, (1) a balanced training set obtained with K-Medoids technique based undersampling gives the best overall performance among different data sampling techniques and no sampling approach; and (2) sparse logistic regression with stability selection achieves competitive performance among various feature selection algorithms. Comprehensive experiments with various settings show that our proposed ensemble model of multiple undersampled datasets yields stable and promising results.
+Notes: Dubey, Rashmi
+Zhou, Jiayu
+Wang, Yalin
+Thompson, Paul M
+Ye, Jieping
+eng
+R01 LM010730/LM/NLM NIH HHS/
+R21 AG043760/AG/NIA NIH HHS/
+2013/11/02 06:00
+Neuroimage. 2014 Feb 15;87:220-41. doi: 10.1016/j.neuroimage.2013.10.005. Epub 2013 Oct 29.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/24176869
+Author Address: School of Computing, Informatics, and Decision Systems Engineering, Arizona State University, Tempe, AZ, USA; Center for Evolutionary Medicine and Informatics, The Biodesign Institute, Arizona State University, Tempe, AZ, USA.
+School of Computing, Informatics, and Decision Systems Engineering, Arizona State University, Tempe, AZ, USA.
+Imaging Genetics Center, Laboratory of Neuro Imaging, UCLA School of Medicine, Los Angeles, CA, USA.
+School of Computing, Informatics, and Decision Systems Engineering, Arizona State University, Tempe, AZ, USA; Center for Evolutionary Medicine and Informatics, The Biodesign Institute, Arizona State University, Tempe, AZ, USA. Electronic address: jieping.ye@asu.edu.
+
+

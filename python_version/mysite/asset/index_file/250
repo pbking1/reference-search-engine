@@ -1,0 +1,36 @@
+Reference Type:  Journal Article
+Record Number: 2317
+Author: Hao, X., Yu, J. and Zhang, D.
+Year: 2014
+Title: Identifying genetic associations with MRI-derived measures via tree-guided sparse learning
+Journal: Med Image Comput Comput Assist Interv
+Volume: 17
+Issue: Pt 2
+Pages: 757-64
+Short Title: Identifying genetic associations with MRI-derived measures via tree-guided sparse learning
+Alternate Journal: Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention
+Accession Number: 25485448
+Keywords: Alzheimer Disease/diagnosis/*pathology/*physiopathology
+*Artificial Intelligence
+Brain/*pathology/*physiopathology
+Diagnosis, Computer-Assisted/methods
+Genetic Association Studies
+Genetic Markers/genetics
+Genetic Predisposition to Disease/genetics
+Humans
+Magnetic Resonance Imaging/*methods
+Polymorphism, Single Nucleotide/*genetics
+Reproducibility of Results
+Sensitivity and Specificity
+Abstract: In recent imaging genetic studies, much work has been focused on regression analysis that treats large-scale single nucleotide polymorphisms (SNPs) and quantitative traits (QTs) as association variables. To deal with the weak detection and high-throughput data problem, feature selection methods such as the least absolute shrinkage and selection operator (Lasso) are often used for selecting the most relevant SNPs associated with QTs. However, one problem of Lasso as well as many other feature selection methods for imaging genetics is that some useful prior information, i.e., the hierarchical structure among SNPs throughout the whole genome, are rarely used for designing more powerful model. In this paper, we propose to identify the associations between candidate genetic features (i.e., SNPs) and magnetic resonance imaging (MRI)-derived measures using a tree-guided sparse learning (TGSL) method. The advantage of our method is that it explicitly models the priori hierarchical grouping structure among the SNPs in the objective function for feature selection. Specifically, two kinds of hierarchical structures, i.e., group by gene and group by linkage disequilibrium (LD) clusters, are imposed as a tree-guided regularization term in our sparse learning model. Experimental results on the Alzheimer's Disease Neuroimaging Initiative (ADNI) database show that our method not only achieves better predictions on the two MRI measures (i.e., left and right hippocampal formation), but also identifies the informative SNPs to guide the disease-induced interpretation compared with other reference methods.
+Notes: Hao, Xiaoke
+Yu, Jintai
+Zhang, Daoqiang
+eng
+Research Support, Non-U.S. Gov't
+Germany
+2014/12/09 06:00
+Med Image Comput Comput Assist Interv. 2014;17(Pt 2):757-64.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/25485448
+
+

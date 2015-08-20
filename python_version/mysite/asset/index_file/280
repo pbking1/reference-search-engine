@@ -1,0 +1,56 @@
+Reference Type:  Journal Article
+Record Number: 2323
+Author: Du, L., Jingwen, Y., Kim, S., Risacher, S. L., Huang, H., Inlow, M., Moore, J. H., Saykin, A. J., Shen, L. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2014
+Title: A novel structure-aware sparse learning algorithm for brain imaging genetics
+Journal: Med Image Comput Comput Assist Interv
+Volume: 17
+Issue: Pt 3
+Pages: 329-36
+Short Title: A novel structure-aware sparse learning algorithm for brain imaging genetics
+Alternate Journal: Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention
+PMCID: 4203420
+Accession Number: 25320816
+Keywords: *Algorithms
+Alzheimer Disease/*genetics/*pathology
+*Artificial Intelligence
+Brain/*pathology/*physiopathology
+Connectome/methods
+Genetic Predisposition to Disease/genetics
+Humans
+Magnetic Resonance Imaging/*methods
+Pattern Recognition, Automated/methods
+Polymorphism, Single Nucleotide/genetics
+Quantitative Trait Loci/genetics
+Reproducibility of Results
+Sensitivity and Specificity
+Abstract: Brain imaging genetics is an emergent research field where the association between genetic variations such as single nucleotide polymorphisms (SNPs) and neuroimaging quantitative traits (QTs) is evaluated. Sparse canonical correlation analysis (SCCA) is a bi-multivariate analysis method that has the potential to reveal complex multi-SNP-multi-QT associations. Most existing SCCA algorithms are designed using the soft threshold strategy, which assumes that the features in the data are independent from each other. This independence assumption usually does not hold in imaging genetic data, and thus inevitably limits the capability of yielding optimal solutions. We propose a novel structure-aware SCCA (denoted as S2CCA) algorithm to not only eliminate the independence assumption for the input data, but also incorporate group-like structure in the model. Empirical comparison with a widely used SCCA implementation, on both simulated and real imaging genetic data, demonstrated that S2CCA could yield improved prediction performance and biologically meaningful findings.
+Notes: Du, Lei
+Jingwen, Yan
+Kim, Sungeun
+Risacher, Shannon L
+Huang, Heng
+Inlow, Mark
+Moore, Jason H
+Saykin, Andrew J
+Shen, Li
+eng
+P30 AG010133/AG/NIA NIH HHS/
+P30 AG10133/AG/NIA NIH HHS/
+R01 AG019771/AG/NIA NIH HHS/
+R01 AG19771/AG/NIA NIH HHS/
+R01 LM009012/LM/NLM NIH HHS/
+R01 LM010098/LM/NLM NIH HHS/
+R01 LM011360/LM/NLM NIH HHS/
+RC2 AG036535/AG/NIA NIH HHS/
+RC2 AG036535/RC/CCR NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+Germany
+2014/10/17 06:00
+Med Image Comput Comput Assist Interv. 2014;17(Pt 3):329-36.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/25320816
+
+

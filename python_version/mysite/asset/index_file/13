@@ -1,0 +1,34 @@
+Reference Type:  Journal Article
+Record Number: 2126
+Author: Xiang, S., Yuan, L., Fan, W., Wang, Y., Thompson, P. M., Ye, J. and for the Alzheimer's Disease Neuroimaging, Initiative
+Year: 2013
+Title: Bi-level multi-source learning for heterogeneous block-wise missing data
+Journal: Neuroimage
+Date: Aug 27
+Short Title: Bi-level multi-source learning for heterogeneous block-wise missing data
+Alternate Journal: NeuroImage
+ISSN: 1095-9572 (Electronic)
+1053-8119 (Linking)
+DOI: 10.1016/j.neuroimage.2013.08.015
+PMCID: 3937297
+Accession Number: 23988272
+Abstract: Bio-imaging technologies allow scientists to collect large amounts of high-dimensional data from multiple heterogeneous sources for many biomedical applications. In the study of Alzheimer's Disease (AD), neuroimaging data, gene/protein expression data, etc., are often analyzed together to improve predictive power. Joint learning from multiple complementary data sources is advantageous, but feature-pruning and data source selection are critical to learn interpretable models from high-dimensional data. Often, the data collected has block-wise missing entries. In the Alzheimer's Disease Neuroimaging Initiative (ADNI), most subjects have MRI and genetic information, but only half have cerebrospinal fluid (CSF) measures, a different half has FDG-PET; only some have proteomic data. Here we propose how to effectively integrate information from multiple heterogeneous data sources when data is block-wise missing. We present a unified "bi-level" learning model for complete multi-source data, and extend it to incomplete data. Our major contributions are: (1) our proposed models unify feature-level and source-level analysis, including several existing feature learning approaches as special cases; (2) the model for incomplete data avoids imputing missing data and offers superior performance; it generalizes to other applications with block-wise missing data sources; (3) we present efficient optimization algorithms for modeling complete and incomplete data. We comprehensively evaluate the proposed models including all ADNI subjects with at least one of four data types at baseline: MRI, FDG-PET, CSF and proteomics. Our proposed models compare favorably with existing approaches.
+Notes: Xiang, Shuo
+Yuan, Lei
+Fan, Wei
+Wang, Yalin
+Thompson, Paul M
+Ye, Jieping
+ENG
+R01 LM010730/LM/NLM NIH HHS/
+R21 AG043760/AG/NIA NIH HHS/
+2013/08/31 06:00
+Neuroimage. 2013 Aug 27. pii: S1053-8119(13)00869-0. doi: 10.1016/j.neuroimage.2013.08.015.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/23988272
+Author Address: School of Computing, Informatics, and Decision Systems Engineering, Arizona State University, Tempe, AZ, USA; Center for Evolutionary Medicine and Informatics, The Biodesign Institute, Arizona State University, Tempe, AZ, USA.
+Huawei Noah's Ark Lab, Hong Kong.
+School of Computing, Informatics, and Decision Systems Engineering, Arizona State University, Tempe, AZ, USA.
+Imaging Genetics Center, Laboratory of Neuro Imaging, Department of Neurology & Psychiatry, UCLA School of Medicine, Los Angeles, CA, USA.
+School of Computing, Informatics, and Decision Systems Engineering, Arizona State University, Tempe, AZ, USA; Center for Evolutionary Medicine and Informatics, The Biodesign Institute, Arizona State University, Tempe, AZ, USA. Electronic address: jieping.ye@asu.edu.
+
+

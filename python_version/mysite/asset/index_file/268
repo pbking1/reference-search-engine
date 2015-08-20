@@ -1,0 +1,35 @@
+Reference Type:  Journal Article
+Record Number: 345
+Author: Ge, T., Feng, J., Hibar, D. P., Thompson, P. M. and Nichols, T. E.
+Year: 2012
+Title: Increasing power for voxel-wise genome-wide association studies: the random field theory, least square kernel machines and fast permutation procedures
+Journal: NeuroImage
+Volume: 63
+Issue: 2
+Pages: 858-73
+Epub Date: 2012/07/18
+Date: Nov 1
+Type of Article: Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+Short Title: Increasing power for voxel-wise genome-wide association studies: the random field theory, least square kernel machines and fast permutation procedures
+Alternate Journal: NeuroImage
+ISSN: 1095-9572 (Electronic)
+1053-8119 (Linking)
+DOI: 10.1016/j.neuroimage.2012.07.012
+Accession Number: 22800732
+Abstract: Imaging traits are thought to have more direct links to genetic variation than diagnostic measures based on cognitive or clinical assessments and provide a powerful substrate to examine the influence of genetics on human brains. Although imaging genetics has attracted growing attention and interest, most brain-wide genome-wide association studies focus on voxel-wise single-locus approaches, without taking advantage of the spatial information in images or combining the effect of multiple genetic variants. In this paper we present a fast implementation of voxel- and cluster-wise inferences based on the random field theory to fully use the spatial information in images. The approach is combined with a multi-locus model based on least square kernel machines to associate the joint effect of several single nucleotide polymorphisms (SNP) with imaging traits. A fast permutation procedure is also proposed which significantly reduces the number of permutations needed relative to the standard empirical method and provides accurate small p-value estimates based on parametric tail approximation. We explored the relation between 448,294 single nucleotide polymorphisms and 18,043 genes in 31,662 voxels of the entire brain across 740 elderly subjects from the Alzheimer's disease neuroimaging initiative (ADNI). Structural MRI scans were analyzed using tensor-based morphometry (TBM) to compute 3D maps of regional brain volume differences compared to an average template image based on healthy elderly subjects. We find method to be more sensitive compared with voxel-wise single-locus approaches. A number of genes were identified as having significant associations with volumetric changes. The most associated gene was GRIN2B, which encodes the N-methyl-d-aspartate (NMDA) glutamate receptor NR2B subunit and affects both the parietal and temporal lobes in human brains. Its role in Alzheimer's disease has been widely acknowledged and studied, suggesting the validity of the approach. The various advantages over existing approaches indicate a great potential offered by this novel framework to detect genetic influences on human brains.
+Notes: Ge, Tian
+Feng, Jianfeng
+Hibar, Derrek P
+Thompson, Paul M
+Nichols, Thomas E
+AG040060/AG/NIA NIH HHS/
+EB008281/EB/NIBIB NIH HHS/
+G0900908/Medical Research Council/United Kingdom
+HD050735/HD/NICHD NIH HHS/
+Neuroimage. 2012 Nov 1;63(2):858-73. doi: 10.1016/j.neuroimage.2012.07.012. Epub 2012 Jul 16.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/22800732
+Author Address: Centre for Computational Systems Biology and School of Mathematical Sciences, Fudan University, Shanghai, China.
+Language: eng
+

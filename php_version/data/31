@@ -1,0 +1,48 @@
+Reference Type:  Journal Article
+Record Number: 2379
+Author: Wachinger, C., Golland, P., Kremen, W., Fischl, B., Reuter, M. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2015
+Title: BrainPrint: A discriminative characterization of brain morphology
+Journal: Neuroimage
+Volume: 109
+Pages: 232-48
+Date: Apr 1
+Short Title: BrainPrint: A discriminative characterization of brain morphology
+Alternate Journal: NeuroImage
+ISSN: 1095-9572 (Electronic)
+1053-8119 (Linking)
+DOI: 10.1016/j.neuroimage.2015.01.032
+PMCID: 4340729
+Accession Number: 25613439
+Abstract: We introduce BrainPrint, a compact and discriminative representation of brain morphology. BrainPrint captures shape information of an ensemble of cortical and subcortical structures by solving the eigenvalue problem of the 2D and 3D Laplace-Beltrami operator on triangular (boundary) and tetrahedral (volumetric) meshes. This discriminative characterization enables new ways to study the similarity between brains; the focus can either be on a specific brain structure of interest or on the overall brain similarity. We highlight four applications for BrainPrint in this article: (i) subject identification, (ii) age and sex prediction, (iii) brain asymmetry analysis, and (iv) potential genetic influences on brain morphology. The properties of BrainPrint require the derivation of new algorithms to account for the heterogeneous mix of brain structures with varying discriminative power. We conduct experiments on three datasets, including over 3000 MRI scans from the ADNI database, 436 MRI scans from the OASIS dataset, and 236 MRI scans from the VETSA twin study. All processing steps for obtaining the compact representation are fully automated, making this processing framework particularly attractive for handling large datasets.
+Notes: Wachinger, Christian
+Golland, Polina
+Kremen, William
+Fischl, Bruce
+Reuter, Martin
+eng
+K25 CA181632/CA/NCI NIH HHS/
+P41 RR006009/RR/NCRR NIH HHS/
+P41 RR014075/RR/NCRR NIH HHS/
+R01 AG018386/AG/NIA NIH HHS/
+R01 EB006758/EB/NIBIB NIH HHS/
+R01 NS052585/NS/NINDS NIH HHS/
+R01 NS070963/NS/NINDS NIH HHS/
+R01 NS083534/NS/NINDS NIH HHS/
+R01 RR016594/RR/NCRR NIH HHS/
+R21 NS072652/NS/NINDS NIH HHS/
+R41 CA183150/CA/NCI NIH HHS/
+R41 NS083101/NS/NINDS NIH HHS/
+RC2 MH089921/MH/NIMH NIH HHS/
+S10 RR019307/RR/NCRR NIH HHS/
+S10 RR023401/RR/NCRR NIH HHS/
+U54 EB005149/EB/NIBIB NIH HHS/
+2015/01/24 06:00
+Neuroimage. 2015 Apr 1;109:232-48. doi: 10.1016/j.neuroimage.2015.01.032. Epub 2015 Jan 19.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/25613439
+Author Address: Computer Science and Artificial Intelligence Lab, MIT, USA; Massachusetts General Hospital, Harvard Medical School, USA. Electronic address: wachinger@csail.mit.edu.
+Computer Science and Artificial Intelligence Lab, MIT, USA.
+University of California, San Diego, USA; VA San Diego, Center of Excellence for Stress and Mental Health, USA.
+Computer Science and Artificial Intelligence Lab, MIT, USA; Massachusetts General Hospital, Harvard Medical School, USA.
+
+

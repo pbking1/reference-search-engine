@@ -1,0 +1,60 @@
+Reference Type:  Journal Article
+Record Number: 2226
+Author: Kohannim, O., Hua, X., Hibar, D. P., Lee, S., Chou, Y. Y., Toga, A. W., Jack, C. R., Jr., Weiner, M. W., Thompson, P. M. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2010
+Title: Boosting power for clinical trials using classifiers based on multiple biomarkers
+Journal: Neurobiol Aging
+Volume: 31
+Issue: 8
+Pages: 1429-42
+Date: Aug
+Short Title: Boosting power for clinical trials using classifiers based on multiple biomarkers
+Alternate Journal: Neurobiology of aging
+ISSN: 1558-1497 (Electronic)
+0197-4580 (Linking)
+DOI: 10.1016/j.neurobiolaging.2010.04.022
+PMCID: 2903199
+Accession Number: 20541286
+Keywords: Age Factors
+Aged
+Aged, 80 and over
+Alzheimer Disease/*cerebrospinal fluid/*classification/genetics
+Apolipoprotein E4/genetics
+*Artificial Intelligence
+Biological Markers/cerebrospinal fluid
+Cognition Disorders/*cerebrospinal fluid/*classification/genetics
+Female
+Genotype
+Humans
+Male
+Randomized Controlled Trials as Topic/*methods
+Sex Factors
+Abstract: Machine learning methods pool diverse information to perform computer-assisted diagnosis and predict future clinical decline. We introduce a machine learning method to boost power in clinical trials. We created a Support Vector Machine algorithm that combines brain imaging and other biomarkers to classify 737 Alzheimer's disease Neuroimaging initiative (ADNI) subjects as having Alzheimer's disease (AD), mild cognitive impairment (MCI), or normal controls. We trained our classifiers based on example data including: MRI measures of hippocampal, ventricular, and temporal lobe volumes, a PET-FDG numerical summary, CSF biomarkers (t-tau, p-tau, and Abeta(42)), ApoE genotype, age, sex, and body mass index. MRI measures contributed most to Alzheimer's disease (AD) classification; PET-FDG and CSF biomarkers, particularly Abeta(42), contributed more to MCI classification. Using all biomarkers jointly, we used our classifier to select the one-third of the subjects most likely to decline. In this subsample, fewer than 40 AD and MCI subjects would be needed to detect a 25% slowing in temporal lobe atrophy rates with 80% power--a substantial boosting of power relative to standard imaging measures.
+Notes: Kohannim, Omid
+Hua, Xue
+Hibar, Derrek P
+Lee, Suh
+Chou, Yi-Yu
+Toga, Arthur W
+Jack, Clifford R Jr
+Weiner, Michael W
+Thompson, Paul M
+eng
+K01 AG030514/AG/NIA NIH HHS/
+K01 AG030514-02/AG/NIA NIH HHS/
+P30 AG010129/AG/NIA NIH HHS/
+P30 AG010129-19/AG/NIA NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+U01 AG024904-04/AG/NIA NIH HHS/
+Comparative Study
+Multicenter Study
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, P.H.S.
+2010/06/15 06:00
+Neurobiol Aging. 2010 Aug;31(8):1429-42. doi: 10.1016/j.neurobiolaging.2010.04.022. Epub 2010 Jun 11.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/20541286
+Author Address: Laboratory of Neuro Imaging, Department of Neurology, UCLA School of Medicine, Los Angeles, CA 90095-1769, USA.
+
+

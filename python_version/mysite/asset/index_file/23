@@ -1,0 +1,43 @@
+Reference Type:  Journal Article
+Record Number: 2121
+Author: Wang, Y., Goh, W., Wong, L., Montana, G. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2013
+Title: Random forests on Hadoop for genome-wide association studies of multivariate neuroimaging phenotypes
+Journal: BMC Bioinformatics
+Volume: 14 Suppl 16
+Pages: S6
+Short Title: Random forests on Hadoop for genome-wide association studies of multivariate neuroimaging phenotypes
+Alternate Journal: BMC bioinformatics
+ISSN: 1471-2105 (Electronic)
+1471-2105 (Linking)
+DOI: 10.1186/1471-2105-14-S16-S6
+PMCID: 3853073
+Accession Number: 24564704
+Keywords: *Algorithms
+Alzheimer Disease/genetics/pathology
+*Artificial Intelligence
+Brain/pathology
+Computer Simulation
+*Genome-Wide Association Study
+Humans
+Magnetic Resonance Imaging
+*Neuroimaging
+*Phenotype
+Polymorphism, Single Nucleotide
+Quantitative Trait Loci
+Software
+Abstract: MOTIVATION: Multivariate quantitative traits arise naturally in recent neuroimaging genetics studies, in which both structural and functional variability of the human brain is measured non-invasively through techniques such as magnetic resonance imaging (MRI). There is growing interest in detecting genetic variants associated with such multivariate traits, especially in genome-wide studies. Random forests (RFs) classifiers, which are ensembles of decision trees, are amongst the best performing machine learning algorithms and have been successfully employed for the prioritisation of genetic variants in case-control studies. RFs can also be applied to produce gene rankings in association studies with multivariate quantitative traits, and to estimate genetic similarities measures that are predictive of the trait. However, in studies involving hundreds of thousands of SNPs and high-dimensional traits, a very large ensemble of trees must be inferred from the data in order to obtain reliable rankings, which makes the application of these algorithms computationally prohibitive. RESULTS: We have developed a parallel version of the RF algorithm for regression and genetic similarity learning tasks in large-scale population genetic association studies involving multivariate traits, called PaRFR (Parallel Random Forest Regression). Our implementation takes advantage of the MapReduce programming model and is deployed on Hadoop, an open-source software framework that supports data-intensive distributed applications. Notable speed-ups are obtained by introducing a distance-based criterion for node splitting in the tree estimation process. PaRFR has been applied to a genome-wide association study on Alzheimer's disease (AD) in which the quantitative trait consists of a high-dimensional neuroimaging phenotype describing longitudinal changes in the human brain structure. PaRFR provides a ranking of SNPs associated to this trait, and produces pair-wise measures of genetic proximity that can be directly compared to pair-wise measures of phenotypic proximity. Several known AD-related variants have been identified, including APOE4 and TOMM40. We also present experimental evidence supporting the hypothesis of a linear relationship between the number of top-ranked mutated states, or frequent mutation patterns, and an indicator of disease severity. AVAILABILITY: The Java codes are freely available at http://www2.imperial.ac.uk/~gmontana.
+Notes: Wang, Yue
+Goh, Wilson
+Wong, Limsoon
+Montana, Giovanni
+eng
+U01 AG024904/AG/NIA NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+England
+2014/02/26 06:00
+BMC Bioinformatics. 2013;14 Suppl 16:S6. doi: 10.1186/1471-2105-14-S16-S6. Epub 2013 Oct 22.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/24564704
+
+

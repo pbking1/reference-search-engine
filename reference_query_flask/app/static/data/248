@@ -1,0 +1,28 @@
+Reference Type:  Journal Article
+Record Number: 297
+Author: Hibar, D. P., Kohannim, O., Stein, J. L., Chiang, M. C. and Thompson, P. M.
+Year: 2011
+Title: Multilocus genetic analysis of brain images
+Journal: Front Genet
+Volume: 2
+Pages: 73
+Epub Date: 2012/02/04
+Short Title: Multilocus genetic analysis of brain images
+ISSN: 1664-8021 (Electronic)
+1664-8021 (Linking)
+DOI: 10.3389/fgene.2011.00073
+PMCID: 3268626
+Accession Number: 22303368
+Abstract: The quest to identify genes that influence disease is now being extended to find genes that affect biological markers of disease, or endophenotypes. Brain images, in particular, provide exquisitely detailed measures of anatomy, function, and connectivity in the living brain, and have identified characteristic features for many neurological and psychiatric disorders. The emerging field of imaging genomics is discovering important genetic variants associated with brain structure and function, which in turn influence disease risk and fundamental cognitive processes. Statistical approaches for testing genetic associations are not straightforward to apply to brain images because the data in brain images is spatially complex and generally high dimensional. Neuroimaging phenotypes typically include 3D maps across many points in the brain, fiber tracts, shape-based analyses, and connectivity matrices, or networks. These complex data types require new methods for data reduction and joint consideration of the image and the genome. Image-wide, genome-wide searches are now feasible, but they can be greatly empowered by sparse regression or hierarchical clustering methods that isolate promising features, boosting statistical power. Here we review the evolution of statistical approaches to assess genetic influences on the brain. We outline the current state of multivariate statistics in imaging genomics, and future directions, including meta-analysis. We emphasize the power of novel multivariate approaches to discover reliable genetic influences with small effect sizes.
+Notes: Hibar, Derrek P
+Kohannim, Omid
+Stein, Jason L
+Chiang, Ming-Chang
+Thompson, Paul M
+Switzerland
+Frontiers in genetics
+Front Genet. 2011;2:73. Epub 2011 Oct 21.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/22303368
+Author Address: Laboratory of Neuro Imaging, Department of Neurology, University of California Los Angeles School of Medicine Los Angeles, CA, USA.
+Language: eng
+

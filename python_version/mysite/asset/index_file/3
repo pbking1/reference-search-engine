@@ -1,0 +1,42 @@
+Reference Type:  Journal Article
+Record Number: 2040
+Author: Zhang, Y., Xu, Z., Shen, X., Pan, W. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2014
+Title: Testing for association with multiple traits in generalized estimation equations, with application to neuroimaging data
+Journal: Neuroimage
+Volume: 96
+Pages: 309-25
+Date: Aug 1
+Short Title: Testing for association with multiple traits in generalized estimation equations, with application to neuroimaging data
+Alternate Journal: NeuroImage
+ISSN: 1095-9572 (Electronic)
+1053-8119 (Linking)
+DOI: 10.1016/j.neuroimage.2014.03.061
+PMCID: 4043944
+Accession Number: 24704269
+Abstract: There is an increasing need to develop and apply powerful statistical tests to detect multiple traits-single locus associations, as arising from neuroimaging genetics and other studies. For example, in the Alzheimer's Disease Neuroimaging Initiative (ADNI), in addition to genome-wide single nucleotide polymorphisms (SNPs), thousands of neuroimaging and neuropsychological phenotypes as intermediate phenotypes for Alzheimer's disease, have been collected. Although some classic methods like MANOVA and newly proposed methods may be applied, they have their own limitations. For example, MANOVA cannot be applied to binary and other discrete traits. In addition, the relationships among these methods are not well understood. Importantly, since these tests are not data adaptive, depending on the unknown association patterns among multiple traits and between multiple traits and a locus, these tests may or may not be powerful. In this paper we propose a class of data-adaptive weights and the corresponding weighted tests in the general framework of generalized estimation equations (GEE). A highly adaptive test is proposed to select the most powerful one from this class of the weighted tests so that it can maintain high power across a wide range of situations. Our proposed tests are applicable to various types of traits with or without covariates. Importantly, we also analytically show relationships among some existing and our proposed tests, indicating that many existing tests are special cases of our proposed tests. Extensive simulation studies were conducted to compare and contrast the power properties of various existing and our new methods. Finally, we applied the methods to an ADNI dataset to illustrate the performance of the methods. We conclude with the recommendation for the use of the GEE-based Score test and our proposed adaptive test for their high and complementary performance.
+Notes: Zhang, Yiwei
+Xu, Zhiyuan
+Shen, Xiaotong
+Pan, Wei
+eng
+R01 GM081535/GM/NIGMS NIH HHS/
+R01 HL065462/HL/NHLBI NIH HHS/
+R01 HL105397/HL/NHLBI NIH HHS/
+R01 HL116720/HL/NHLBI NIH HHS/
+R01GM081535/GM/NIGMS NIH HHS/
+R01HL105397/HL/NHLBI NIH HHS/
+R01HL116720/HL/NHLBI NIH HHS/
+R01HL65462/HL/NHLBI NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+2014/04/08 06:00
+Neuroimage. 2014 Aug 1;96:309-25. doi: 10.1016/j.neuroimage.2014.03.061. Epub 2014 Apr 1.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/24704269
+Author Address: Division of Biostatistics, School of Public Health, Minneapolis, MN 55455, USA.
+School of Statistics, University of Minnesota, Minneapolis, MN 55455, USA.
+Division of Biostatistics, School of Public Health, Minneapolis, MN 55455, USA. Electronic address: weip@biostat.umn.edu.
+
+

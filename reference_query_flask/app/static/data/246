@@ -1,0 +1,42 @@
+Reference Type:  Serial
+Record Number: 1050
+Author: Hibar, D. P., Stein, J. L., Jahanshad, N., Kohannim, O., Toga, A. W., McMahon, K. L., De Zubicaray, G. I., Montgomery, G. W., Martin, N. G., Wright, M. J., Weiner, M. W. and Thompson, P. M.
+Year: 2013
+Title: Exhaustive search of the SNP-SNP interactome identifies epistatic effects on brain volume in two cohorts
+Place Published: Nagoya
+Volume: 8151 LNCS
+Pages: 600-607
+Series Title: 16th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2013
+Short Title: Exhaustive search of the SNP-SNP interactome identifies epistatic effects on brain volume in two cohorts
+ISBN: 03029743 (ISSN); 9783642407598 (ISBN)
+DOI: 10.1007/978-3-642-40760-4_75
+Keywords: epistasis
+genome
+interaction
+sure independence
+tensor-based morphometry
+Epistatic effects
+Interaction analysis
+Neuroimaging genetics
+Protective effects
+Genes
+Iterative methods
+Neuroimaging
+Loading
+Abstract: The SNP-SNP interactome has rarely been explored in the context of neuroimaging genetics mainly due to the complexity of conducting ∼10 11 pairwise statistical tests. However, recent advances in machine learning, specifically the iterative sure independence screening (SIS) method, have enabled the analysis of datasets where the number of predictors is much larger than the number of observations. Using an implementation of the SIS algorithm (called EPISIS), we used exhaustive search of the genome-wide, SNP-SNP interactome to identify and prioritize SNPs for interaction analysis. We identified a significant SNP pair, rs1345203 and rs1213205, associated with temporal lobe volume. We further examined the full-brain, voxelwise effects of the interaction in the ADNI dataset and separately in an independent dataset of healthy twins (QTIM). We found that each additional loading in the epistatic effect was associated with ∼5% greater brain regional brain volume (a protective effect) in both the ADNI and QTIM samples. © 2013 Springer-Verlag.
+Notes: Conference code: 100284
+Export Date: 28 May 2014
+Source: Scopus
+Language of Original Document: English
+Correspondence Address: Imaging Genetics Center, Laboratory of Neuro Imaging, UCLA School of Medicine, Los Angeles, CA, United States
+References: Marchini, J., Genome-wide strategies for detecting multiple loci that influence complex diseases (2005) Nature Genetics, 37 (4), pp. 413-417; Wray, N.R., Multi-locus models of genetic risk of disease (2010) Genome Med., 2 (10); Moore, J.H., Williams, S.M., Epistasis and its implications for personal genetics (2009) American Journal of Human Genetics, 85 (3), p. 309; Stich, B., Power to detect higher-order epistatic interactions in a metabolic pathway using a new mapping strategy (2007) Genetics, 176 (1), pp. 563-570; Pezawas, L., Evidence of biologic epistasis between BDNF and SLC6A4 and implications for depression (2008) Molecular Psychiatry, 13 (7), pp. 709-716; Tan, H.-Y., Epistasis between catechol-O-methyltransferase and type II metabotropic glutamate receptor 3 genes on working memory brain function (2007) PNAS, 104 (30), pp. 12536-12541; Wang, Y., Evidence of Epistasis Between the Catechol-O-Methyltransferase and Aldehyde Dehydrogenase 3B1 Genes in Paranoid Schizophrenia (2009) Biological Psychiatry, 65 (12), pp. 1048-1054; Chiang, M.-C., Gene network effects on brain microstructure and intellectual performance identified in 472 twins (2012) Journal of Neuroscience, 32 (25), pp. 8732-8745; Cordell, H.J., Detecting gene-gene interactions that underlie human diseases (2009) Nature Reviews Genetics, 10 (6), pp. 392-404; Cordell, H.J., Statistical modeling of interlocus interactions in a complex disease: Rejection of the multiplicative model of epistasis in type 1 diabetes (2001) Genetics, 158 (1), pp. 357-367; De Zubicaray, G.I., Meeting the challenges of neuroimaging genetics (2008) Brain Imaging Behavior, 2, pp. 258-263; Lander, E.S., Schork, N.J., Genetic dissection of complex traits (1994) Science, 265 (5181), pp. 037-2048; Abecasis, G.R., MaCH: Using Sequence and Genotype Data to Estimate Haplotypes and Unobserved Genotypes (2010) Genetic Epidemiology, 34 (8), pp. 816-834; ENIGMA2 1KGP Cookbook (V3) (Online), , ENIGMA2 Genetics Support Team The Enhancing Neuroimaging Genetics through Meta-Analysis (ENIGMA) consortium (accessed July 27, 2012); Leow, A., Inverse consistent mapping in 3D deformable image registration: Its construction and statistical properties (2005) Inf. Process. Med. Imaging, 19, pp. 493-503; Hua, X., Unbiased tensor-based morphometry: Improved robustness and sample size estimates for Alzheimer's disease clinical trials (2012) Neuroimage, , EPUB; Jahanshad, N., Brain structure in healthy adults is related to serum transferrin and the H63D polymorphism in the HFE gene (2012) Proc. Natl. Acad. Sci., 109 (14), pp. E851-E859; Fan, J., Lv, J., Sure independence screening for ultrahigh dimensional feature space (2008) Journal of the Royal Statistical Society: Series B (Statistical Methodolo-gy), 70 (5), pp. 849-911; Candes, E., Tao, T., The Dantzig selector: Statistical estimation when p is much larger than n (2007) The Annals of Statistics, 35 (6), pp. 2313-2351; Stein, J.L., Genome-wide analysis reveals novel genes influencing temporal lobe structure with relevance to neurodegeneration in Alzheimer's disease (2010) Neuroimage, 51 (2), pp. 542-554; Ueki, M., Tamiya, G., Ultrahigh-dimensional variable selection method for whole-genome gene-gene interaction analysis (2012) BMC Bioinformatics, 13 (1), p. 72; Hoerl, A.E., Application of ridge analysis to regression problems (1962) Chemical Engineering Progress, 58, pp. 54-59; Kohannim, O., Boosting power to detect genetic associations in imaging using multi-locus, genome-wide scans and ridge regression (2011) Biomedical Imaging: From Nano to Macro IEEE 2011, , EPUB; Chen, J., Chen, Z., Extended Bayesian information criteria for model selection with large model spaces (2008) Biometrika, 95 (3), pp. 759-771; Langers, D.R., Enhanced signal detection in neuroimaging by means of regional control of the global false discovery rate (2007) NeuroImage, 38 (1), pp. 43-56
+URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84885943415&partnerID=40&md5=e95017ce0aee4c2efd18694e583b74e6
+Author Address: Imaging Genetics Center, Laboratory of Neuro Imaging, UCLA School of Medicine, Los Angeles, CA, United States
+Center for Magnetic Resonance, School of Psychology, University of Queensland, Brisbane, QLD, Australia
+Functional Magnetic Resonance Imaging Laboratory, School of Psychology, University of Queensland, Brisbane, QLD, Australia
+Genetic Epidemiology Laboratory, Queensland Institute of Medical Research, Brisbane, QLD, Australia
+Departments of Radiology, Medicine, Psychiatry, UC San Francisco, San Francisco, CA, United States
+Department of Veterans Affairs Medical Center, San Francisco, CA, United States
+Access Date: 22 September 2013 through 26 September 2013
+
+

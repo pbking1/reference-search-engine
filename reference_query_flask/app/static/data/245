@@ -1,0 +1,33 @@
+Reference Type:  Journal Article
+Record Number: 298
+Author: Hibar, D. P., Stein, J. L., Kohannim, O., Jahanshad, N., Jack, C. R., Weiner, M. W., Toga, A. W. and Thompson, P. M.
+Year: 2011
+Title: Principal components regression: Multivariate, gene-based tests in imaging genomics
+Journal: Biomedical Imaging: From Nano to Macro, 2011 IEEE International Symposium on
+Pages: 289-293
+Date: March 30 2011-April 2 2011
+Short Title: Principal components regression: Multivariate, gene-based tests in imaging genomics
+Alternate Journal: Biomedical Imaging: From Nano to Macro, 2011 IEEE International Symposium on
+ISSN: 1945-7928
+DOI: 10.1109/isbi.2011.5872408
+Keywords: biomedical MRI
+brain
+diseases
+genetics
+genomics
+neurophysiology
+polymorphism
+principal component analysis
+regression analysis
+ADNI
+Alzheimer Disease Neuroimaging Initiative
+brain structure
+gene-based tests
+imaging genomics
+multiple single nucleotide polymorphisms
+multivariate statistics
+principal components regression
+tensor-based morphometry analysis
+Abstract: In imaging genomics, there have been rapid advances in genome-wide, image-wide searches for genes that influence brain structure. Most efforts focus on univariate tests that treat each genetic variation independently, ignoring the joint effects of multiple variants. Instead, we present a gene-based method to detect the joint effect of multiple single nucleotide polymorphisms (SNPs) in 18,044 genes across 31,662 voxels of the whole brain in a tensor-based morphometry analysis of baseline MRI scans from 731 subjects from the Alzheimer's Disease Neuroimaging Initiative (ADNI). Our gene-based multivariate statistics use principal components regression to test the combined effect of multiple genetic variants on an image, using a single test statistic. In some situations, which we describe, this can boost power by encoding population variations within each gene, reducing the effective number of statistical tests, and reducing the effect dimension of the search space. Multivariate gene-based methods may discover gene effects undetectable with standard, univariate methods, accelerating ongoing imaging genomics efforts worldwide.
+
+

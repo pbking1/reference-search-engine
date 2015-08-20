@@ -1,0 +1,37 @@
+Reference Type:  Journal Article
+Record Number: 2344
+Author: Ge, T., Nichols, T. E., Ghosh, D., Mormino, E. C., Smoller, J. W., Sabuncu, M. R. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2015
+Title: A kernel machine method for detecting effects of interaction between multidimensional variable sets: An imaging genetics application
+Journal: Neuroimage
+Volume: 109
+Pages: 505-14
+Date: Apr 1
+Short Title: A kernel machine method for detecting effects of interaction between multidimensional variable sets: An imaging genetics application
+Alternate Journal: NeuroImage
+ISSN: 1095-9572 (Electronic)
+1053-8119 (Linking)
+DOI: 10.1016/j.neuroimage.2015.01.029
+PMCID: 4339421
+Accession Number: 25600633
+Abstract: Measurements derived from neuroimaging data can serve as markers of disease and/or healthy development, are largely heritable, and have been increasingly utilized as (intermediate) phenotypes in genetic association studies. To date, imaging genetic studies have mostly focused on discovering isolated genetic effects, typically ignoring potential interactions with non-genetic variables such as disease risk factors, environmental exposures, and epigenetic markers. However, identifying significant interaction effects is critical for revealing the true relationship between genetic and phenotypic variables, and shedding light on disease mechanisms. In this paper, we present a general kernel machine based method for detecting effects of the interaction between multidimensional variable sets. This method can model the joint and epistatic effect of a collection of single nucleotide polymorphisms (SNPs), accommodate multiple factors that potentially moderate genetic influences, and test for nonlinear interactions between sets of variables in a flexible framework. As a demonstration of application, we applied the method to the data from the Alzheimer's Disease Neuroimaging Initiative (ADNI) to detect the effects of the interactions between candidate Alzheimer's disease (AD) risk genes and a collection of cardiovascular disease (CVD) risk factors, on hippocampal volume measurements derived from structural brain magnetic resonance imaging (MRI) scans. Our method identified that two genes, CR1 and EPHA1, demonstrate significant interactions with CVD risk factors on hippocampal volume, suggesting that CR1 and EPHA1 may play a role in influencing AD-related neurodegeneration in the presence of CVD risks.
+Notes: Ge, Tian
+Nichols, Thomas E
+Ghosh, Debashis
+Mormino, Elizabeth C
+Smoller, Jordan W
+Sabuncu, Mert R
+eng
+100309/Wellcome Trust/United Kingdom
+R01 EB015611/EB/NIBIB NIH HHS/
+2015/01/21 06:00
+Neuroimage. 2015 Apr 1;109:505-14. doi: 10.1016/j.neuroimage.2015.01.029. Epub 2015 Jan 16.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/25600633
+Author Address: Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Harvard Medical School, Charlestown, MA 02129, USA; Psychiatric and Neurodevelopmental Genetics Unit, Center for Human Genetic Research, Massachusetts General Hospital, Boston, MA 02114, USA. Electronic address: tge1@nmr.mgh.harvard.edu.
+Department of Statistics & Warwick Manufacturing Group, The University of Warwick, Coventry CV4 7AL, UK.
+Department of Statistics, The Pennsylvania State University, PA 16802, USA.
+Department of Neurology, Massachusetts General Hospital, Harvard Medical School, Boston, MA 02114, USA.
+Psychiatric and Neurodevelopmental Genetics Unit, Center for Human Genetic Research, Massachusetts General Hospital, Boston, MA 02114, USA; Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA 02138, USA.
+Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Harvard Medical School, Charlestown, MA 02129, USA; Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA 02139, USA. Electronic address: msabuncu@nmr.mgh.harvard.edu.
+
+

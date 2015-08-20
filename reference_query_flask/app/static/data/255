@@ -1,0 +1,58 @@
+Reference Type:  Journal Article
+Record Number: 2281
+Author: Gutman, B. A., Hua, X., Rajagopalan, P., Chou, Y. Y., Wang, Y., Yanovsky, I., Toga, A. W., Jack, C. R., Jr., Weiner, M. W., Thompson, P. M. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2013
+Title: Maximizing power to track Alzheimer's disease and MCI progression by LDA-based weighting of longitudinal ventricular surface features
+Journal: Neuroimage
+Volume: 70
+Pages: 386-401
+Date: Apr 15
+Short Title: Maximizing power to track Alzheimer's disease and MCI progression by LDA-based weighting of longitudinal ventricular surface features
+Alternate Journal: NeuroImage
+ISSN: 1095-9572 (Electronic)
+1053-8119 (Linking)
+DOI: 10.1016/j.neuroimage.2012.12.052
+PMCID: 3942253
+Accession Number: 23296188
+Keywords: Aged
+Alzheimer Disease/*pathology
+Cerebral Ventricles/*pathology
+Discriminant Analysis
+Disease Progression
+Female
+Humans
+Magnetic Resonance Imaging
+Male
+Mild Cognitive Impairment/*pathology
+Abstract: We propose a new method to maximize biomarker efficiency for detecting anatomical change over time in serial MRI. Drug trials using neuroimaging become prohibitively costly if vast numbers of subjects must be assessed, so it is vital to develop efficient measures of brain change. A popular measure of efficiency is the minimal sample size (n80) needed to detect 25% change in a biomarker, with 95% confidence and 80% power. For multivariate measures of brain change, we can directly optimize n80 based on a Linear Discriminant Analysis (LDA). Here we use a supervised learning framework to optimize n80, offering two alternative solutions. With a new medial surface modeling method, we track 3D dynamic changes in the lateral ventricles in 2065 ADNI scans. We apply our LDA-based weighting to the results. Our best average n80-in two-fold nested cross-validation-is 104 MCI subjects (95% CI: [94,139]) for a 1-year drug trial, and 75AD subjects [64,102]. This compares favorably with other MRI analysis methods. The standard "statistical ROI" approach applied to the same ventricular surfaces requires 165 MCI or 94AD subjects. At 2 years, the best LDA measure needs only 67 MCI and 52AD subjects, versus 119 MCI and 80AD subjects for the stat-ROI method. Our surface-based measures are unbiased: they give no artifactual additive atrophy over three time points. Our results suggest that statistical weighting may boost efficiency of drug trials that use brain maps.
+Notes: Gutman, Boris A
+Hua, Xue
+Rajagopalan, Priya
+Chou, Yi-Yu
+Wang, Yalin
+Yanovsky, Igor
+Toga, Arthur W
+Jack, Clifford R Jr
+Weiner, Michael W
+Thompson, Paul M
+eng
+AG016570/AG/NIA NIH HHS/
+EB01651/EB/NIBIB NIH HHS/
+K01 AG030514/AG/NIA NIH HHS/
+LM05639/LM/NLM NIH HHS/
+P30 AG010129/AG/NIA NIH HHS/
+P50 AG016570/AG/NIA NIH HHS/
+R01 AG040060/AG/NIA NIH HHS/
+R01 LM005639/LM/NLM NIH HHS/
+R21 RR019771/RR/NCRR NIH HHS/
+RR019771/RR/NCRR NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+Canadian Institutes of Health Research/Canada
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+2013/01/09 06:00
+Neuroimage. 2013 Apr 15;70:386-401. doi: 10.1016/j.neuroimage.2012.12.052. Epub 2013 Jan 4.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/23296188
+Author Address: Imaging Genetics Center, Laboratory of Neuro Imaging, Dept. of Neurology, UCLA School of Medicine, Los Angeles, CA 90095-1769, USA.
+
+

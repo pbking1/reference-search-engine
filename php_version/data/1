@@ -1,0 +1,33 @@
+﻿Reference Type:  Journal Article
+Record Number: 2311
+Author: Zhu, H., Khondker, Z., Lu, Z., Ibrahim, J. G. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2014
+Title: Bayesian Generalized Low Rank Regression Models for Neuroimaging Phenotypes and Genetic Markers
+Journal: J Am Stat Assoc
+Volume: 109
+Issue: 507
+Pages: 997-990
+Short Title: Bayesian Generalized Low Rank Regression Models for Neuroimaging Phenotypes and Genetic Markers
+Alternate Journal: Journal of the American Statistical Association
+ISSN: 0162-1459 (Print)
+0162-1459 (Linking)
+PMCID: 4208701
+Accession Number: 25349462
+Abstract: We propose a Bayesian generalized low rank regression model (GLRR) for the analysis of both high-dimensional responses and covariates. This development is motivated by performing searches for associations between genetic variants and brain imaging phenotypes. GLRR integrates a low rank matrix to approximate the high-dimensional regression coefficient matrix of GLRR and a dynamic factor model to model the high-dimensional covariance matrix of brain imaging phenotypes. Local hypothesis testing is developed to identify significant covariates on high-dimensional responses. Posterior computation proceeds via an efficient Markov chain Monte Carlo algorithm. A simulation study is performed to evaluate the finite sample performance of GLRR and its comparison with several competing approaches. We apply GLRR to investigate the impact of 1,071 SNPs on top 40 genes reported by AlzGene database on the volumes of 93 regions of interest (ROI) obtained from Alzheimer's Disease Neuroimaging Initiative (ADNI).
+Notes: Zhu, Hongtu
+Khondker, Zakaria
+Lu, Zhaohua
+Ibrahim, Joseph G
+ENG
+P01 CA142538/CA/NCI NIH HHS/
+R01 CA074015/CA/NCI NIH HHS/
+R01 GM070335/GM/NIGMS NIH HHS/
+R01 MH086633/MH/NIMH NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+UL1 RR025747/RR/NCRR NIH HHS/
+2014/10/29 06:00
+J Am Stat Assoc. 2014;109(507):997-990.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/25349462
+Author Address: H. Zhu is Professor of Biostatistics ( hzhu@bios.unc.edu ), Z. Khondker was a Ph.d student under the supervision of Drs. Ibrahim and Zhu ( zakaria.khondker@medivation.com ), Z. Lu was a postdoctoral fellow under the supervision of Dr. Zhu ( zhaohua.lu@gmail.com ), and J. G. Ibrahim is Alumni Distinguished Professor of Biostatistics ( ibrahim@bios.unc.edu ), Department of Biostatistics, University of North Carolina at Chapel Hill, NC 27599-7420.
+
+

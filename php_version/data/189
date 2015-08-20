@@ -1,0 +1,32 @@
+Reference Type:  Conference Proceedings
+Record Number: 310
+Author: Kohannim, O., Hibar, D. P., Stein, J. L., Jahanshad, N., Jack, C. R., Weiner, M. W., Toga, A. W. and Thompson, P. M.
+Year of Conference: 2011
+Title: Boosting power to detect genetic associations in imaging using multi-locus, genome-wide scans and ridge regression
+Conference Name: Biomedical Imaging: From Nano to Macro, 2011 IEEE International Symposium on
+Pages: 1855-1859
+Date: March 30 2011-April 2 2011
+Short Title: Boosting power to detect genetic associations in imaging using multi-locus, genome-wide scans and ridge regression
+ISBN: 1945-7928
+DOI: 10.1109/isbi.2011.5872769
+Keywords: biomedical MRI
+diseases
+genomics
+neurophysiology
+regression analysis
+Alzheimer disease neuroimaging initiative
+MRI-derived hippocampal measure
+correlated single nucleotide polymorphisms
+genetic associations
+genome-wide association studies
+multilocus genome-wide scans
+post hoc tensor-based morphometry analyses
+ridge regression
+statistical effects
+statistical tests
+temporal lobe volume measure
+temporal lobe volume phenotypes
+univariate analysis
+Abstract: Most algorithms used for imaging genetics examine statistical effects of each individual genetic variant, one at a time. We developed a new approach, based on ridge regression, to jointly evaluate multiple, correlated single nucleotide polymorphisms (SNPs) in genome-wide association studies (GWAS) of brain images. Our goal was to boost the power to detect gene effects on brain images. We tested our method on MRI-derived hippocampal and temporal lobe volume measures, from 740 subjects scanned by the Alzheimer's Disease Neuroimaging Initiative (ADNI). We identified two significant and one almost significant SNP for the hippocampal and temporal lobe volume phenotypes, respectively, after correcting for multiple statistical tests across the genome. Ridge regression gave more significant associations than univariate analysis. Two SNPs, near regulatory genomic regions, showed significant voxelwise effects in post hoc, tensor-based morphometry analyses. Genome-wide ridge regression may detect SNPs missed by univariate GWAS, by incorporating multi-SNP dependencies in the model.
+
+

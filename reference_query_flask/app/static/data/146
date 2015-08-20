@@ -1,0 +1,37 @@
+Reference Type:  Journal Article
+Record Number: 2346
+Author: Moon, S. W., Dinov, I. D., Zamanyan, A., Shi, R., Genco, A., Hobel, S., Thompson, P. M., Toga, A. W. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2015
+Title: Gene interactions and structural brain change in early-onset Alzheimer's disease subjects using the pipeline environment
+Journal: Psychiatry Investig
+Volume: 12
+Issue: 1
+Pages: 125-35
+Date: Jan
+Short Title: Gene interactions and structural brain change in early-onset Alzheimer's disease subjects using the pipeline environment
+Alternate Journal: Psychiatry investigation
+ISSN: 1738-3684 (Print)
+1738-3684 (Linking)
+DOI: 10.4306/pi.2015.12.1.125
+PMCID: 4310910
+Accession Number: 25670955
+Abstract: OBJECTIVE: This article investigates subjects aged 55 to 65 from the Alzheimer's Disease Neuroimaging Initiative (ADNI) database to broaden our understanding of early-onset (EO) cognitive impairment using neuroimaging and genetics biomarkers. METHODS: Nine of the subjects had EO-AD (Alzheimer's disease) and 27 had EO-MCI (mild cognitive impairment). The 15 most important neuroimaging markers were extracted with the Global Shape Analysis (GSA) Pipeline workflow. The 20 most significant single nucleotide polymorphisms (SNPs) were chosen and were associated with specific neuroimaging biomarkers. RESULTS: We identified associations between the neuroimaging phenotypes and genotypes for a total of 36 subjects. Our results for all the subjects taken together showed the most significant associations between rs7718456 and L_hippocampus (volume), and between rs7718456 and R_hippocampus (volume). For the 27 MCI subjects, we found the most significant associations between rs6446443 and R_superior_frontal_gyrus (volume), and between rs17029131 and L_Precuneus (volume). For the nine AD subjects, we found the most significant associations between rs16964473 and L_rectus gyrus (surface area), and between rs12972537 and L_rectus_gyrus (surface area). CONCLUSION: We observed significant correlations between the SNPs and the neuroimaging phenotypes in the 36 EO subjects in terms of neuroimaging genetics. However, larger sample sizes are needed to ensure that the effects will be detectable for a reasonable false-positive error rate using the GSA and Plink Pipeline workflows.
+Notes: Moon, Seok Woo
+Dinov, Ivo D
+Zamanyan, Alen
+Shi, Ran
+Genco, Alex
+Hobel, Sam
+Thompson, Paul M
+Toga, Arthur W
+(ADNI)
+eng
+Korea (South)
+2015/02/12 06:00
+Psychiatry Investig. 2015 Jan;12(1):125-35. doi: 10.4306/pi.2015.12.1.125. Epub 2015 Jan 12.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/25670955
+Author Address: Department of Psychiatry, Konkuk University School of Medicine, Chungju, Republic of Korea.
+Laboratory of Neuro Imaging, Institute for Neuroimaging and Informatics, University of Southern California, Los Angeles, CA, USA. ; Statistics Online Computational Resource, UMSM, University of Michigan, Ann Arbor, MI, USA.
+Laboratory of Neuro Imaging, Institute for Neuroimaging and Informatics, University of Southern California, Los Angeles, CA, USA.
+
+

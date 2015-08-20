@@ -1,0 +1,30 @@
+<!-- hello_world.html -->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>search engine</title>
+        <style>
+            body {
+               background-color: lightyellow;
+            }
+            em {
+                color: LightSeaGreen;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Top 10 Result</h1>     
+	<em>
+		{% for i in result %}
+		<div>
+		<a href="#">The {{ i.result_id }} th record</a>
+		<!--a>Total result number is {{ i.total_result_number }}</a><p-->
+		<a>Match rate is {{ i.match_rate }}%</a><p>
+		<a>The document id is {{ i.doc_id }}</a><p>
+		<a>The content is {{ i.content }}</a>
+		</div><br />
+		{% endfor %}
+	</em>
+    </body>
+</html>

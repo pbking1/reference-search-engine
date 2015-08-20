@@ -1,0 +1,60 @@
+Reference Type:  Journal Article
+Record Number: 2106
+Author: Shi, J., Thompson, P. M., Gutman, B., Wang, Y. and Alzheimer's Disease Neuroimaging, Initiative
+Year: 2013
+Title: Surface fluid registration of conformal representation: application to detect disease burden and genetic influence on hippocampus
+Journal: Neuroimage
+Volume: 78
+Pages: 111-34
+Date: Sep
+Short Title: Surface fluid registration of conformal representation: application to detect disease burden and genetic influence on hippocampus
+Alternate Journal: NeuroImage
+ISSN: 1095-9572 (Electronic)
+1053-8119 (Linking)
+DOI: 10.1016/j.neuroimage.2013.04.018
+PMCID: 3683848
+Accession Number: 23587689
+Keywords: Aged
+Aged, 80 and over
+Algorithms
+Alzheimer Disease/genetics/pathology
+Apolipoprotein E4/*genetics
+Brain Mapping/*methods
+Databases, Factual
+Diffusion Tensor Imaging
+Female
+Genetic Predisposition to Disease/genetics
+Genotype
+Hippocampus/*pathology
+Humans
+Image Interpretation, Computer-Assisted/*methods
+Male
+Middle Aged
+Mild Cognitive Impairment/*genetics/pathology
+Abstract: In this paper, we develop a new automated surface registration system based on surface conformal parameterization by holomorphic 1-forms, inverse consistent surface fluid registration, and multivariate tensor-based morphometry (mTBM). First, we conformally map a surface onto a planar rectangle space with holomorphic 1-forms. Second, we compute surface conformal representation by combining its local conformal factor and mean curvature and linearly scale the dynamic range of the conformal representation to form the feature image of the surface. Third, we align the feature image with a chosen template image via the fluid image registration algorithm, which has been extended into the curvilinear coordinates to adjust for the distortion introduced by surface parameterization. The inverse consistent image registration algorithm is also incorporated in the system to jointly estimate the forward and inverse transformations between the study and template images. This alignment induces a corresponding deformation on the surface. We tested the system on Alzheimer's Disease Neuroimaging Initiative (ADNI) baseline dataset to study AD symptoms on hippocampus. In our system, by modeling a hippocampus as a 3D parametric surface, we nonlinearly registered each surface with a selected template surface. Then we used mTBM to analyze the morphometry difference between diagnostic groups. Experimental results show that the new system has better performance than two publicly available subcortical surface registration tools: FIRST and SPHARM. We also analyzed the genetic influence of the Apolipoprotein E[element of]4 allele (ApoE4), which is considered as the most prevalent risk factor for AD. Our work successfully detected statistically significant difference between ApoE4 carriers and non-carriers in both patients of mild cognitive impairment (MCI) and healthy control subjects. The results show evidence that the ApoE genotype may be associated with accelerated brain atrophy so that our work provides a new MRI analysis tool that may help presymptomatic AD research.
+Notes: Shi, Jie
+Thompson, Paul M
+Gutman, Boris
+Wang, Yalin
+eng
+AG016570/AG/NIA NIH HHS/
+EB01651/EB/NIBIB NIH HHS/
+K01 AG030514/AG/NIA NIH HHS/
+LM05639/LM/NLM NIH HHS/
+P30 AG010129/AG/NIA NIH HHS/
+P50 AG016570/AG/NIA NIH HHS/
+R01 AG040060/AG/NIA NIH HHS/
+R01 EB008281/EB/NIBIB NIH HHS/
+R01 MH097268/MH/NIMH NIH HHS/
+R01 NS080655/NS/NINDS NIH HHS/
+RR019771/RR/NCRR NIH HHS/
+U01 AG024904/AG/NIA NIH HHS/
+Canadian Institutes of Health Research/Canada
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+2013/04/17 06:00
+Neuroimage. 2013 Sep;78:111-34. doi: 10.1016/j.neuroimage.2013.04.018. Epub 2013 Apr 13.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/23587689
+Author Address: School of Computing, Informatics, and Decision Systems Engineering, Arizona State University, Tempe, AZ 85287, USA.
+
+
