@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+ 
+<struts>
+        <package name="default" extends="struts-default" namespace="/">
+        <action name="login"
+            class="struct2Test.controller.LoginAction">
+            <result name="success">admin.jsp</result>
+            <result name="error">index.jsp</result>
+            <result name="input">index.jsp</result>
+        </action>
+        <action name="insert"
+            class="struct2Test.controller.InsertAction">
+            <result name="success">insert.jsp</result>
+        </action>
+        <action name="delete"
+            class="struct2Test.controller.DeleteAction">
+            <result name="success">delete.jsp</result>
+        </action>
+        <action name="Search"
+            class="struct2Test.controller.SearchAction">
+            <result name="success">search_result.jsp</result>
+            <result name="error">search.jsp</result>
+        </action>
+        </package>
+</struts>
